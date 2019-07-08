@@ -1,0 +1,1523 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EffectivenessProtocol
+</name>
+</assembly>
+<members>
+<member name="F:EffectivenessProtocol.StatusChgList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.StatusChgList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.StatusChgList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EftReqActPlnList.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AuditDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AuditDisplay.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AuditDisplay.ATDispTab">
+	<summary>
+ATDispTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.SrhTbl">
+	<summary>
+SrhTbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.PlanCodeLbl">
+	<summary>
+PlanCodeLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.PlanCodeTxt">
+	<summary>
+PlanCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.PlanDescLbl">
+	<summary>
+PlanDescLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.PlanDescTxt">
+	<summary>
+PlanDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.CatLbl">
+	<summary>
+CatLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.CatDDL">
+	<summary>
+CatDDL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.DisTable">
+	<summary>
+DisTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMReport.CategoryTxt">
+	<summary>
+CategoryTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.StatusChg.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.StatusChg.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.StatusChg.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.StatusChg.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AuditList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AuditList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AuditList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ExistingList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ExistingList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ExistingList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl1.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl1.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl1.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl1.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl1.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.ActPlnTab">
+	<summary>
+ActPlnTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.IARow">
+	<summary>
+IARow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.IATab">
+	<summary>
+IATab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanDetails.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.SearchCtrl1">
+	<summary>
+SearchCtrl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.ActLb">
+	<summary>
+ActLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMScheduleLst.DevCtrlTable">
+	<summary>
+DevCtrlTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AppList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AppList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.AppList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.ActLb">
+	<summary>
+ActLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList1.RecTable">
+	<summary>
+RecTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.ModifyList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrfList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrfList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrfList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.SearchCtrl.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Config.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Config.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Config.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Config.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.InitLb">
+	<summary>
+InitLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.ToBeInitLb">
+	<summary>
+ToBeInitLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.SearchTr1">
+	<summary>
+SearchTr1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.PlanCodeLbl">
+	<summary>
+PlanCodeLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.PlanCodeTxt">
+	<summary>
+PlanCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.PlanDescLbl">
+	<summary>
+PlanDescLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.PlanDescTxt">
+	<summary>
+PlanDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.CatLbl">
+	<summary>
+CatLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.CatDDL">
+	<summary>
+CatDDL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.SearchTr2">
+	<summary>
+SearchTr2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.Inchglbl">
+	<summary>
+Inchglbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.InchgTxt">
+	<summary>
+InchgTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.BtnLoad">
+	<summary>
+BtnLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.StatusTr">
+	<summary>
+StatusTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.StatusLbl">
+	<summary>
+StatusLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.StatusRdl">
+	<summary>
+StatusRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.TotalRecTr">
+	<summary>
+TotalRecTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.DisTable">
+	<summary>
+DisTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.CategoryTxt">
+	<summary>
+CategoryTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.EFMPlanCalendar.ReqTypetxt">
+	<summary>
+ReqTypetxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.KfLable">
+	<summary>
+KfLable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.ReqFieldValidator1">
+	<summary>
+ReqFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.KfId">
+	<summary>
+KfId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.CreationList.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:EffectivenessProtocol.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:EffectivenessProtocol.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:EffectivenessProtocol.RIList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RIList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RIList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:EffectivenessProtocol.StatusUpdate_Ajax">
+	<summary>
+StatusUpdate_Ajax class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.HeaderTAb">
+	<summary>
+HeaderTAb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.ActPlnTab">
+	<summary>
+ActPlnTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.NumPlanReqTd">
+	<summary>
+NumPlanReqTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.NumPlanReqTxt">
+	<summary>
+NumPlanReqTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.EftPlnTr">
+	<summary>
+EftPlnTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.EftPlnTab">
+	<summary>
+EftPlnTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Trn.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.App.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.MsgDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.MsgDisplay.MessageDisplay1">
+	<summary>
+MessageDisplay1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Particulars.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Particulars.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Particulars.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.Particulars.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:EffectivenessProtocol.RITrf.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

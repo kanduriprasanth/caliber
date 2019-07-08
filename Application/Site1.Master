@@ -1,0 +1,225 @@
+<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="QAMS300BL.Site1" %>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
+
+<html>
+	<HEAD runat="server" >
+		<TITLE>Caliber LIMS</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft Visual Studio 6.0">
+		<STYLE>
+.Acls { COLOR: #cfcfcf; TEXT-DECORATION: none }
+.AHover { COLOR: #ffffff; TEXT-DECORATION: none }
+.IMG { BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: #aa4400; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: #aa4400; BORDER-TOP-COLOR: #aa4400; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: #aa4400 }
+.IMGOver { BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: teal; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: teal; BORDER-TOP-COLOR: teal; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: teal }
+.AppNavCls { PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Georgia,Garamond; LETTER-SPACING: 1px; FONT-VARIANT: small-caps }
+.AnchoClsB { FONT-SIZE: 10pt; BORDER-LEFT-COLOR: black; BORDER-BOTTOM-COLOR: black; WIDTH: 16px; COLOR: white; BORDER-TOP-STYLE: double; BORDER-TOP-COLOR: black; BORDER-RIGHT-STYLE: double; BORDER-LEFT-STYLE: double; BACKGROUND-COLOR: gray; TEXT-ALIGN: center; TEXT-DECORATION: none; BORDER-RIGHT-COLOR: black; BORDER-BOTTOM-STYLE: double }
+.AnchoClsB1 { FONT-SIZE: 10pt; BORDER-LEFT-COLOR: darkred; BORDER-BOTTOM-COLOR: darkred; WIDTH: 16px; COLOR: white; BORDER-TOP-STYLE: double; BORDER-TOP-COLOR: darkred; BORDER-RIGHT-STYLE: double; BORDER-LEFT-STYLE: double; BACKGROUND-COLOR: gray; TEXT-ALIGN: center; TEXT-DECORATION: none; BORDER-RIGHT-COLOR: darkred; BORDER-BOTTOM-STYLE: double }
+</STYLE>
+		<SCRIPT LANGUAGE="javascript">
+<!--
+function fnCallMenu(disPos)
+{
+  var ua = navigator.userAgent
+	var dom = (document.getElementById)? 1:0
+	var ie4 = (document.all&&!dom)? 1:0
+	var ie5 = (document.all&&dom)? 1:0
+	var HideTip = "eval(obj+sv+hl+';'+obj+sl+'=0;'+obj+st+'=-800')"
+	var doc_root = ((ie5&&ua.indexOf("Opera")<0||ie4)&&document.compatMode=="CSS1Compat")? "document.documentElement":"document.body"
+
+	var mx = "event.x"
+	var my = "event.y"
+	var scl = "eval(doc_root).scrollLeft"
+	var sct = "eval(doc_root).scrollTop"
+	mx = mx+"+"+scl 
+	my = my+"+"+sct
+	
+	MenuDiv.style.display='block'
+	MenuDiv.style.left = eval(mx) - (MenuDiv.clientWidth/2)
+	MenuDiv.style.top = 70//eval(my)
+	return(false);
+}
+function fnDisableMenu(){
+MenuDiv.style.display='none'
+}
+
+function fnShowAddOn()
+{
+	parent.AppBody.mainFrame.cols="175,*"	
+	if(window.parent.AppBody.frames != null){
+		window.parent.AppBody.frames(0).BasicMenu.style.display='none';
+		window.parent.AppBody.frames(0).ADMenu.style.display='none';
+		window.parent.AppBody.frames(0).AOMMenu.style.display='block';	
+		window.parent.AppBody.frames(0).DMSMenu.style.display='none';
+	}else{window.history.go()}
+}
+
+//ADMINISTRATOR
+function fnShowAD()
+{
+	parent.AppBody.mainFrame.cols="175,*"
+	if(window.parent.AppBody.frames != null){
+	window.parent.AppBody.frames(0).BasicMenu.style.display='none';
+	window.parent.AppBody.frames(0).ADMenu.style.display='block';
+	window.parent.AppBody.frames(0).AOMMenu.style.display='none';
+	window.parent.AppBody.frames(0).DMSMenu.style.display='none';
+	}else{window.history.go()}
+}
+
+function fnShowDMS()
+{
+	parent.AppBody.mainFrame.cols="175,*"
+	if(window.parent.AppBody.frames != null){
+	window.parent.AppBody.frames(0).BasicMenu.style.display='none';
+	window.parent.AppBody.frames(0).ADMenu.style.display='none';
+	window.parent.AppBody.frames(0).AOMMenu.style.display='none';
+	window.parent.AppBody.frames(0).DMSMenu.style.display='block';
+	}else{window.history.go()}
+}
+
+function fnShowBasic()
+{
+ alert("hi........");
+	parent.AppBody.mainFrame.cols="175,*"
+	if(window.parent.AppBody.frames != null){
+	window.parent.AppBody.frames(0).BasicMenu.style.display='block';
+	window.parent.AppBody.frames(0).ADMenu.style.display='none';
+	window.parent.AppBody.frames(0).AOMMenu.style.display='none';
+	window.parent.AppBody.frames(0).DMSMenu.style.display='none';
+	}else{window.history.go()}
+}
+
+
+function fnShowSuperSub(){
+	var pageURL = "SupSubCompose.aspx"
+	var features = 'dialogheight=10;dialogwidth=22.2;help=0;status=0;scroll=0;edge=raised;'
+	var cReturnValue = window.showModalDialog(pageURL,'SuperScript',features)
+}
+
+function fnGoHome(){window.navigate('../BodyHome.aspx')}
+function fnSignOut(){window.navigate('../Login.aspx')}
+function fnRefresh(){
+	window.frames("AppBody").frames("bodyFrame").window.history.go();
+}
+
+function fnOnError(){	
+	return true;
+}
+function ass()
+{
+
+window.self.name="mainpage";
+}
+		
+window.onerror = fnOnError;
+//-->
+		</SCRIPT>
+	</HEAD>
+<body>
+		
+
+    <form id="form1" runat="server">
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; position: relative;
+            height: 100%">
+           <TR height="78" style="Height:78px;"> <!--1st TR-->
+				<TD style="background-color:#D3D1C9;"></TD>
+				<TD width="100%">
+					<TABLE WIDTH="100%" HEIGHT="100%" ALIGN="center" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+						<TR>
+							<TD style="Background-image:url('IMAGES/LIMSbar.gif');background-repeat:no-repeat;Padding-left:5px;border-style:groove;Border-width:2px;Background-color:#444cb4;Padding-Right:0px;">
+								<TABLE WIDTH="100%" HEIGHT="100%" ALIGN="center" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+									<TR>
+										<TD>&nbsp;</TD>
+										<TD Width="35%">
+											<TABLE WIDTH="100%" HEIGHT="100%" ALIGN="center" BORDER="0" CELLSPACING="0" CELLPADDING="0"
+												style="Padding-right:5px;padding-bottom:0px;">
+												<TR>
+													<td align="center" style="width: 72px">
+														<SPAN style="FONT-SIZE:9pt;COLOR:#ffffff;FONT-FAMILY:Georgia,Garamond;LETTER-SPACING:0px;FONT-VARIANT:small-caps">Plant</SPAN><br>
+														<asp:Label ID="lblPlantName" Runat="server" style="FONT-SIZE:9pt;COLOR:yellow;FONT-FAMILY:Georgia,Garamond;LETTER-SPACING:1px;FONT-VARIANT:small-caps">xioxioxio</asp:Label>
+													</td>
+													<TD align="center">
+														<SPAN style="font-family:Georgia,Garamond;font-size:9pt;Letter-Spacing:1px;font-variant:small-caps;Color:#FFFFFF;">Current User</SPAN><br>
+														<asp:Label ID="lblUserName" Runat="server" style="font-family:Georgia,Garamond;font-size:9pt;Letter-Spacing:1px;font-variant:small-caps;Color:Yellow;">xioxioxio</asp:Label>
+													</TD>
+												</TR>
+												<TR>
+													<td style="width: 72px"></td>
+													<TD valign="bottom" align="right">
+														<TABLE WIDTH="100%" HEIGHT="100%" ALIGN="center" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+															<TR>
+																<TD align="right" style="font-size:10pt;Height:18px;">
+																	<A class="Acls" onMouseOver="className='AHover'" onMouseOut="className='Acls'" accesskey="S"
+																		Href="JavaScript:window.history.back();" title="Back Script Alt + S"><IMG Border="0" src="Images/back.gif"></A>&nbsp;
+																	<A target="bodyFrame" class="Acls" onMouseOver="className='AHover'" onMouseOut="className='Acls'"
+																		accesskey="H" Href="BodyHome.aspx" title="Home Alt + H"><IMG Border="0" src="Images/Home.gif"></A>&nbsp;
+																	<A class="Acls" onMouseOver="className='AHover'" onMouseOut="className='Acls'" Href="JavaScript:fnRefresh()"
+																		title="Refresh F5"><IMG Border="0" src="Images/Refresh.gif"></A>&nbsp; <A target="_parent" class="Acls" onMouseOver="className='AHover'" onMouseOut="className='Acls'"
+																		accesskey="X" Href="RIndex.aspx" title="SignOut Alt + X"><IMG Border="0" src="Images/Signout.gif"></A>
+																</TD>
+															</TR>
+														</TABLE>
+													</TD>
+												</TR>
+											</TABLE>
+										</TD>
+									</TR>
+								</TABLE>
+							</TD>
+						</TR>
+					</TABLE>
+				</TD>
+				<TD style="Padding:0px;Width:2px;background-color:#D3D1C9;Border-style:none;"></TD>
+			</TR> <!--1st TR-->
+            <tr>
+                <td style="width: 200px">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" style="position: relative"
+                        width="100%">
+                        <tr>
+                            <td style="border-right: 2px groove; border-top: 2px groove; border-left: 2px groove;
+                                width: 18px; border-bottom: 2px groove; background-color: #d3daf2" valign="top">
+                                <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+                                    <!--Basic LIMS-->
+                                    <tr>
+                                        <td style="padding-bottom: 0px; width: 21px; padding-top: 0px" valign="middle">
+                                            <a accesskey="1" href="JavaScript:fnShowBasic()" style="padding-right: 0px; padding-left: 0px;
+                                                padding-bottom: 0px; padding-top: 0px" title="View Menu [Alt + 1 + Enter]">
+                                                <img border="0" class="IMG" onmouseout="this.className='IMG'" onmouseover="this.className='IMGOver'"
+                                                    src="IMAGES/SampleManager.gif" /></a></td>
+                                    </tr>
+                                    <!--Addon Modules-->
+                                    <tr>
+                                        <td style="width: 21px; padding-top: 0px" valign="middle">
+                                            <a accesskey="2" href="JavaScript:fnShowAddOn()" style="padding-right: 0px; padding-left: 0px;
+                                                padding-bottom: 0px; padding-top: 0px" title="View Menu [Alt + 2 + Enter]">
+                                                <img border="0" class="IMG" onmouseout="this.className='IMG'" onmouseover="this.className='IMGOver'"
+                                                    src="IMAGES/ResourceManager.gif" /></a></td>
+                                    </tr>
+                                    <!--Administrator-->
+                                    <tr>
+                                        <td style="width: 21px; padding-top: 0px" valign="middle">
+                                            <a accesskey="3" href="JavaScript:fnShowAD()" style="padding-right: 0px; padding-left: 0px;
+                                                padding-bottom: 0px; padding-top: 0px" title="View Menu [Alt + 3 + Enter]">
+                                                <img border="0" class="IMG" onmouseout="this.className='IMG'" onmouseover="this.className='IMGOver'"
+                                                    src="IMAGES/SystemManager.gif" /></a></td>
+                                    </tr>
+                                    <!-- DMS-->
+                                    <!--Mail-->
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+
+       
+       
+
+       
+    </form>
+</body>
+</html>

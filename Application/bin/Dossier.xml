@@ -1,0 +1,2953 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Dossier
+</name>
+</assembly>
+<members>
+<member name="F:Dossier.CreationList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.KfLable">
+	<summary>
+KfLable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.ReqFieldValidator1">
+	<summary>
+ReqFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.KfId">
+	<summary>
+KfId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationList.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.CreationList">
+	<summary>
+CreationList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.ModifyList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ModifyList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ModifyList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Dossier.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:Dossier.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Dossier.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Dossier.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Dossier.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Dossier.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:Dossier.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:Dossier.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Dossier.SearchCtrl.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChg.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChg.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChg.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChg.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.StatusChg">
+	<summary>
+StatusChg class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.AuditList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.AuditList">
+	<summary>
+AuditList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.SamplesList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SamplesList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SamplesList.ActLb">
+	<summary>
+ActLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChgList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChgList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.StatusChgList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.StatusChgList">
+	<summary>
+StatusChgList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.ReqList.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqList.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqList.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.ReqList">
+	<summary>
+ReqList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:Dossier.CreatePdf_ajax">
+	<summary>
+CreatePdf_ajax class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.MsgDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.MsgDisplay.MessageDisplay1">
+	<summary>
+MessageDisplay1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.MsgDisplay">
+	<summary>
+MsgDisplay class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.RITrf.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrf.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrf.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrf.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrf.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrf.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.RITrf">
+	<summary>
+RITrf class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.CodeTr">
+	<summary>
+CodeTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.DescTr">
+	<summary>
+DescTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.AuthorisedUGpTr">
+	<summary>
+AuthorisedUGpTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.AuthorisedUGpTd">
+	<summary>
+AuthorisedUGpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.UgpLbl">
+	<summary>
+UgpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.UgpIdTxt">
+	<summary>
+UgpIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.UgpLblTxt">
+	<summary>
+UgpLblTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.SplFilTr">
+	<summary>
+SplFilTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.TableCell2">
+	<summary>
+TableCell2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.FilReqLbl">
+	<summary>
+FilReqLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.SplFilRBL">
+	<summary>
+SplFilRBL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.SplTr">
+	<summary>
+SplTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.TableCell3">
+	<summary>
+TableCell3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.FilChk">
+	<summary>
+FilChk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.SelFieldTr">
+	<summary>
+SelFieldTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.SelFieldTab">
+	<summary>
+SelFieldTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ColConfigTR">
+	<summary>
+ColConfigTR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ColConfigTD">
+	<summary>
+ColConfigTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ConfigColTr">
+	<summary>
+ConfigColTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.CofigTbl">
+	<summary>
+CofigTbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChrtCnfgReq">
+	<summary>
+ChrtCnfgReq control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartReqTd">
+	<summary>
+ChartReqTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChrtReqRB">
+	<summary>
+ChrtReqRB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartTr">
+	<summary>
+ChartTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartCfgtab">
+	<summary>
+ChartCfgtab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartCfg">
+	<summary>
+ChartCfg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.NoOfChartsTd">
+	<summary>
+NoOfChartsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.NoOfChartsTxt">
+	<summary>
+NoOfChartsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartTypeTD">
+	<summary>
+ChartTypeTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartTypeDDl">
+	<summary>
+ChartTypeDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.TableCell4">
+	<summary>
+TableCell4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.xseriesDDl">
+	<summary>
+xseriesDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.TableCell5">
+	<summary>
+TableCell5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.yseriesDDl">
+	<summary>
+yseriesDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.XSeriesTd">
+	<summary>
+XSeriesTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.XSeriesTxt">
+	<summary>
+XSeriesTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.XseriecDDl">
+	<summary>
+XseriecDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.YSeriesTd">
+	<summary>
+YSeriesTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.YSeriesTxt">
+	<summary>
+YSeriesTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.yseriecDDl">
+	<summary>
+yseriecDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartPosTd">
+	<summary>
+ChartPosTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ChartPosDDl">
+	<summary>
+ChartPosDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.BtnNext">
+	<summary>
+BtnNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.ColConfgDDL">
+	<summary>
+ColConfgDDL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.FilReqTxt">
+	<summary>
+FilReqTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RptCnfg.FilTxt">
+	<summary>
+FilTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditDisplay.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditDisplay.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditDisplay.ATLinksTD">
+	<summary>
+ATLinksTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AuditDisplay.ATDispTab">
+	<summary>
+ATDispTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.AuditDisplay">
+	<summary>
+AuditDisplay class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.CreationPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.CreationPopUp">
+	<summary>
+CreationPopUp class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier._Default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.FilesPathTxt">
+	<summary>
+FilesPathTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.BookMarkNamesLstTxt">
+	<summary>
+BookMarkNamesLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.DocList.Txt">
+	<summary>
+Txt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.DocList">
+	<summary>
+DocList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.ExistingList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExistingList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExistingList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Particulars.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Particulars.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Particulars.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Particulars.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.Particulars">
+	<summary>
+Particulars class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.RITrfList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrfList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RITrfList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.ReqTypeTd">
+	<summary>
+ReqTypeTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.ChkTr">
+	<summary>
+ChkTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.DocDetTr">
+	<summary>
+DocDetTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.DocTable">
+	<summary>
+DocTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.PwdRqdTr">
+	<summary>
+PwdRqdTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.PwdRqdTd">
+	<summary>
+PwdRqdTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.PwdRqdRBL">
+	<summary>
+PwdRqdRBL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.SecPwdTr">
+	<summary>
+SecPwdTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.SecPwdtd">
+	<summary>
+SecPwdtd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.SecPwdTxt">
+	<summary>
+SecPwdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.CfmPwdTr">
+	<summary>
+CfmPwdTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.CfmPwdTd">
+	<summary>
+CfmPwdTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.CfmPwdTxt">
+	<summary>
+CfmPwdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.TableCell2">
+	<summary>
+TableCell2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.RemarkTxt">
+	<summary>
+RemarkTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.NonEditIdsTxt">
+	<summary>
+NonEditIdsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.EditIdsTxt">
+	<summary>
+EditIdsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.BtnMsgLbl">
+	<summary>
+BtnMsgLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.Clk">
+	<summary>
+Clk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.CusValid">
+	<summary>
+CusValid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.ChkBIdsTxt">
+	<summary>
+ChkBIdsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.DocIdsTxt">
+	<summary>
+DocIdsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.DocUCodeTxt">
+	<summary>
+DocUCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.DocDescTxt">
+	<summary>
+DocDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.BookMarksTxt">
+	<summary>
+BookMarksTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.ChkIdFlgLstTxt">
+	<summary>
+ChkIdFlgLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Trn.DmsDocTypeTxt">
+	<summary>
+DmsDocTypeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.Trn">
+	<summary>
+Trn class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.App.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.App.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.App.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.App.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.App.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.App.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.App.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.App">
+	<summary>
+App class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.calendar.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.calendar.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.calendar.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.calendar.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.calendar.TgtDatRspCal">
+	<summary>
+TgtDatRspCal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.calendar">
+	<summary>
+calendar class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.ActLb">
+	<summary>
+ActLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.EvaluationList.DevCtrlTable">
+	<summary>
+DevCtrlTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.ActLb">
+	<summary>
+ActLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.ARNo">
+	<summary>
+ARNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.ARNo1">
+	<summary>
+ARNo1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.ARBtn">
+	<summary>
+ARBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.DisTable">
+	<summary>
+DisTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RePrintReqLst.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AppList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AppList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.AppList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.AppList">
+	<summary>
+AppList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl2.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl2.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl2.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl2.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl2.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.HeaderDiv">
+	<summary>
+HeaderDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TableRow6">
+	<summary>
+TableRow6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.EditorTd">
+	<summary>
+EditorTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TemplateTab">
+	<summary>
+TemplateTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.FooterDiv">
+	<summary>
+FooterDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IsuLogTable">
+	<summary>
+IsuLogTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.ClserTr">
+	<summary>
+ClserTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.ClserTrTab">
+	<summary>
+ClserTrTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.BatchTD">
+	<summary>
+BatchTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.SampleLtrl">
+	<summary>
+SampleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IARow">
+	<summary>
+IARow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IATab">
+	<summary>
+IATab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.ActPlnRptBtn">
+	<summary>
+ActPlnRptBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.ActionPlanMsg">
+	<summary>
+ActionPlanMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IssuedWorksIdLstTxt">
+	<summary>
+IssuedWorksIdLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IssuedWorksAulIdLstTxt">
+	<summary>
+IssuedWorksAulIdLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.PlanIdTxt">
+	<summary>
+PlanIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IsuLogIDTxt">
+	<summary>
+IsuLogIDTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.IsuCodeTxt">
+	<summary>
+IsuCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TypeTxt">
+	<summary>
+TypeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.PlanCodeTxt">
+	<summary>
+PlanCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TempIdTxt">
+	<summary>
+TempIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TempTxt">
+	<summary>
+TempTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TempStatusTxt">
+	<summary>
+TempStatusTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TempTypeTxt">
+	<summary>
+TempTypeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.WordFormatReport.TempValTab">
+	<summary>
+TempValTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Config.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Config.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Config.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.Config.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.Config">
+	<summary>
+Config class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.IARow">
+	<summary>
+IARow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.IATab">
+	<summary>
+IATab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ExcelExport.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.ActLb">
+	<summary>
+ActLb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ReqIssuesList.DisTable">
+	<summary>
+DisTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.CategoryTd">
+	<summary>
+CategoryTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.CategoryDDl">
+	<summary>
+CategoryDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.ReportForTd">
+	<summary>
+ReportForTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.ReportForRdl">
+	<summary>
+ReportForRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.BtnConferm">
+	<summary>
+BtnConferm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.CustVal">
+	<summary>
+CustVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.EFormTableIdTxt">
+	<summary>
+EFormTableIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.EFormIdTxt">
+	<summary>
+EFormIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.eFormCodeTxt">
+	<summary>
+eFormCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.IsuFormCodeTxt">
+	<summary>
+IsuFormCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.TempLst.IsuFormIdTxt">
+	<summary>
+IsuFormIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.QAMSFilesPopUp.TemplateType">
+	<summary>
+TemplateType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.QAMSFilesPopUp">
+	<summary>
+QAMSFilesPopUp class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.RIList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RIList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.RIList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:Dossier.RIList">
+	<summary>
+RIList class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl1.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl1.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl1.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl1.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.SearchCtrl1.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.HeaderDiv">
+	<summary>
+HeaderDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TableRow6">
+	<summary>
+TableRow6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.EditorTd">
+	<summary>
+EditorTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TemplateTab">
+	<summary>
+TemplateTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.FooterDiv">
+	<summary>
+FooterDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IsuLogTable">
+	<summary>
+IsuLogTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.ClserTr">
+	<summary>
+ClserTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.ClserTrTab">
+	<summary>
+ClserTrTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IARow">
+	<summary>
+IARow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IATab">
+	<summary>
+IATab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IssuedWorksIdLstTxt">
+	<summary>
+IssuedWorksIdLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IssuedWorksAulIdLstTxt">
+	<summary>
+IssuedWorksAulIdLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.PlanIdTxt">
+	<summary>
+PlanIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IsuLogIDTxt">
+	<summary>
+IsuLogIDTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.IsuCodeTxt">
+	<summary>
+IsuCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TypeTxt">
+	<summary>
+TypeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.PlanCodeTxt">
+	<summary>
+PlanCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TempIdTxt">
+	<summary>
+TempIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TempTxt">
+	<summary>
+TempTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TempStatusTxt">
+	<summary>
+TempStatusTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TempTypeTxt">
+	<summary>
+TempTypeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.ActPlanIdTxt">
+	<summary>
+ActPlanIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.ActPlanCntTXt">
+	<summary>
+ActPlanCntTXt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.TempValTab">
+	<summary>
+TempValTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.PrnDiv">
+	<summary>
+PrnDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Dossier.ActPlanFinalRpt.backBtn">
+	<summary>
+backBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,1568 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestDynamicEForm
+</name>
+</assembly>
+<members>
+<member name="F:TestDynamicEForm.AuditDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AuditDisplay.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AuditDisplay.ATDispTab">
+	<summary>
+ATDispTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Config.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Config.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Config.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Config.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RIList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RIList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RIList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ExistingList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ExistingList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ExistingList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.MsgDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.MsgDisplay.MessageDisplay1">
+	<summary>
+MessageDisplay1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChgList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChgList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChgList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Particulars.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Particulars.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Particulars.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Particulars.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChg.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChg.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChg.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.StatusChg.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowListPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AuditList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AuditList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AuditList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.Literal2">
+	<summary>
+Literal2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.BodyTd">
+	<summary>
+BodyTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.BodyRowsDdL">
+	<summary>
+BodyRowsDdL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.BodyRowTd">
+	<summary>
+BodyRowTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.DBTabTd">
+	<summary>
+DBTabTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.DBTab">
+	<summary>
+DBTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.BachBtn">
+	<summary>
+BachBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.BodyCntTxt">
+	<summary>
+BodyCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.CkFlagTXT">
+	<summary>
+CkFlagTXT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.CtrlIdTxt">
+	<summary>
+CtrlIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.FldInfoTxt">
+	<summary>
+FldInfoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.eFromPreview.FldDescTxt">
+	<summary>
+FldDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:TestDynamicEForm.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TestDynamicEForm.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TestDynamicEForm.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails.AppRevierTd">
+	<summary>
+AppRevierTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails.DetailsTbl">
+	<summary>
+DetailsTbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrf.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.EFormTablePopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.eFormLab">
+	<summary>
+eFormLab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.KfLable">
+	<summary>
+KfLable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.ReqFieldValidator1">
+	<summary>
+ReqFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.KfId">
+	<summary>
+KfId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.KfAulId">
+	<summary>
+KfAulId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.CreationList.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AppList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AppList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.AppList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.FormCodeCapTd">
+	<summary>
+FormCodeCapTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.FormCodeCapTxt">
+	<summary>
+FormCodeCapTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.EfromTypeTD">
+	<summary>
+EfromTypeTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.EfromTabLbl">
+	<summary>
+EfromTabLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.EfromTabTD">
+	<summary>
+EfromTabTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.EfromLbl">
+	<summary>
+EfromLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.SpWrkAllValTD">
+	<summary>
+SpWrkAllValTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.SpWrkAllValRdl">
+	<summary>
+SpWrkAllValRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.SpWrkAllDDl">
+	<summary>
+SpWrkAllDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.SpWrkexeValTD">
+	<summary>
+SpWrkexeValTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.SpWrkexeValRdl">
+	<summary>
+SpWrkexeValRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.SpWrkExeDDl">
+	<summary>
+SpWrkExeDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.AutoWrkAllTD">
+	<summary>
+AutoWrkAllTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.AutoWrkAllRdl">
+	<summary>
+AutoWrkAllRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkTempTr">
+	<summary>
+WrkTempTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkTempTd">
+	<summary>
+WrkTempTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkTempDDl">
+	<summary>
+WrkTempDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkFlowDescTD">
+	<summary>
+WrkFlowDescTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkFloIDTxt">
+	<summary>
+WrkFloIDTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkFloCodeTxt">
+	<summary>
+WrkFloCodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkFlowDescLab">
+	<summary>
+WrkFlowDescLab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WrkFlowDescTxt">
+	<summary>
+WrkFlowDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HeaderEFormTableTd">
+	<summary>
+HeaderEFormTableTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.TableCell2">
+	<summary>
+TableCell2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HeaderTableIdTxt">
+	<summary>
+HeaderTableIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HeaderTableDesLab">
+	<summary>
+HeaderTableDesLab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HeaderTableDesTxt">
+	<summary>
+HeaderTableDesTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.eFromBtn">
+	<summary>
+eFromBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HeaderTd">
+	<summary>
+HeaderTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.ttt">
+	<summary>
+ttt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HRowsTd">
+	<summary>
+HRowsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HRowsTxt">
+	<summary>
+HRowsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HRows1Td">
+	<summary>
+HRows1Td control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HRowsDd">
+	<summary>
+HRowsDd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.HeaderTr">
+	<summary>
+HeaderTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.DHTabTd">
+	<summary>
+DHTabTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.DHTab">
+	<summary>
+DHTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.BodyRowTd">
+	<summary>
+BodyRowTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.BodyRowsDdL">
+	<summary>
+BodyRowsDdL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.BodyTd">
+	<summary>
+BodyTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.DBTabTd">
+	<summary>
+DBTabTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.DBTab">
+	<summary>
+DBTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.RevCntTxt">
+	<summary>
+RevCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.AppCntTxt">
+	<summary>
+AppCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.RevColTxt">
+	<summary>
+RevColTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.AppColTxt">
+	<summary>
+AppColTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.TableId">
+	<summary>
+TableId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.TableCode">
+	<summary>
+TableCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.FldSelValueTxt">
+	<summary>
+FldSelValueTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.FldCountTxt">
+	<summary>
+FldCountTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.UserStatusTxt">
+	<summary>
+UserStatusTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.Trn.WofStatusTxt">
+	<summary>
+WofStatusTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.App.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails1.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails1.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails1.AppRevierTd">
+	<summary>
+AppRevierTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.WorkFlowDetails1.DetailsTbl">
+	<summary>
+DetailsTbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrfList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrfList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.RITrfList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.SearchOptionLtrl1">
+	<summary>
+SearchOptionLtrl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ValidationRulePopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.SearchCtrl.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.SearchCtrl.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.SearchCtrl.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.SearchCtrl.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.SearchCtrl.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ModifyList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ModifyList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:TestDynamicEForm.ModifyList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

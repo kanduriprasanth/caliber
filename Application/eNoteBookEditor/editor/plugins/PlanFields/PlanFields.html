@@ -1,0 +1,316 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="noindex, nofollow" name="robots" />
+
+    <script type="text/javascript" src="../../../fckeditor.js"></script>
+
+    <link rel="stylesheet" href="../../../../TRIMS.css">
+
+    <script src="../../dialog/common/fck_dialog_common.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+var dialog	= window.parent ;
+var oEditor = dialog.InnerDialogLoaded() ;
+var FCK = oEditor.FCK ;
+var FCKLang = oEditor.FCKLang ;
+var FCKBrowserInfo = oEditor.FCKBrowserInfo ;
+var FCKStyles = oEditor.FCKStyles ;
+var FCKElementPath = oEditor.FCKElementPath ;
+var FCKDomRange = oEditor.FCKDomRange ;
+var FCKDomTools = oEditor.FCKDomTools ;
+var FCKDomRangeIterator = oEditor.FCKDomRangeIterator ;
+var FCKListsLib = oEditor.FCKListsLib ;
+var AlwaysCreate = dialog.Args().CustomValue ;
+
+var AjaxReturnVal ='';
+var PreviousData1='';
+var PreviousData='';
+var PreviousSpan=null;
+var currentBlocks='';
+
+ currentBlocks =FCK.Selection.GetSelectedElement();
+
+ if(currentBlocks && currentBlocks.tagName.toLowerCase()=='div')
+    {   
+     var DataIndexVal,DivDataVal;
+        PreviousData1=currentBlocks.innerHTML ;
+        PreviousSpan=currentBlocks;
+        DataIndexVal = PreviousData1.toLowerCase().indexOf("<div");
+        DivDataVal = PreviousData1.substring( 0, DataIndexVal) ;
+        PreviousData = DivDataVal
+        
+        if(DivDataVal==''|| DivDataVal==null)
+        {
+
+            DataIndexVal = PreviousData1.toLowerCase().indexOf("</div>");
+            var TempVal=PreviousData1.substring( DataIndexVal+14, PreviousData1.length) ;
+            var Temp12= TempVal.toLowerCase().indexOf("<div");
+            PreviousData = TempVal.substring(0,Temp12);
+        }
+    }
+   
+String.prototype.IEquals = function()
+{  
+	var thisUpper = this.toUpperCase() ;
+	var aArgs = arguments ;
+	if ( aArgs.length == 1 && aArgs[0].pop )
+		aArgs = aArgs[0] ;
+
+	for ( var i = 0 ; i < aArgs.length ; i++ )
+	{
+		if ( thisUpper == aArgs[i].toUpperCase() )
+			return true ;
+	}
+	return false ;
+}
+
+var EditFlag =''
+window.onload = function()
+{
+    oEditor.FCKLanguageManager.TranslatePage(document) ;
+    AjaxFn();
+    if(GetE("FieldVal"+  0))
+    {
+        dialog.SetOkButton( true );
+        dialog.SetAutoSize( true );
+    }
+}
+ function AjaxFn()
+         {
+ 	    var xmlhttp;
+        try
+          {
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+          }
+        catch(ex)
+          {
+            try
+              {
+            xmlhttp=new ActiveXObject("MSxml2.XMLHTTP");
+              }
+        catch(ex)
+          {
+            try
+              {
+                xmlhttp=new XmlHttpRequest();
+              }
+            catch(ex)
+              {
+                alert("please update the webbrowser");
+              }
+          }
+    }
+      xmlhttp.onreadystatechange=function()
+      {
+            if(xmlhttp.readystate==4)
+            {
+            var s = xmlhttp.responseText;
+              GetE( 'FieldDataDiv' ).innerHTML =s
+             //SetSelected()
+             xmlhttp =null;
+             }
+      }
+        
+        
+        var url="../../../GeneratePlanFields.aspx?";
+            xmlhttp.open("GET",url,false);
+            xmlhttp.send(null);
+}
+
+function ValidateVal()
+{
+    try
+    {
+        var str="" 
+        var Val = (window.parent.parent.document.getElementById ("TemplateTypeDDL").value)*1
+
+        if(window.parent.parent.document.getElementById ("EFormTableReqRBtn_1").checked != true)
+        {
+            str=str+ FCKLang.RequiredSelcaption + window.parent.parent.document.getElementById("EFormTableReqTd").innerHTML + "\n -"
+        }
+        else
+        {
+            if(window.parent.parent.document.getElementById ("EFormTableDesTxt").value =="")
+             {
+                str=str+ FCKLang.SelvalueForCaption + window.parent.parent.document.getElementById("EFormTableTd").innerHTML + "\n -"
+             }
+        }
+        if(str!="")
+        {
+            str =str.substring(0,str.length-3)
+            alert(str)
+            return false
+        }
+        return true
+    }
+    catch(ex)
+    {
+        return true
+    }
+}
+
+function SetSelected()
+{
+    var TrpDocObj = window.parent.parent.document
+    if(TrpDocObj.body.all ("emaNyM").length)
+    {
+        var EditConts = TrpDocObj.body.all ("emaNyM")
+        for(var i=0;i<EditConts.length;i++)
+        {
+            DisableExCheckBoxs(EditConts[i].value)
+        }
+    }
+    else
+    {
+        DisableExCheckBoxs(TrpDocObj.body.all ("emaNyM").value)
+    }
+}
+</script>
+
+<script language =javascript >
+
+function DisableExCheckBoxs(New_EditorId)
+{
+    
+   
+    var TrpDocObj = window.parent.parent.document
+    
+    var SPrefix = ""
+    if(TrpDocObj.getElementById ("TpltUniqueIdTxt"))
+        SPrefix = TrpDocObj.getElementById ("TpltUniqueIdTxt").value;
+
+    if(oEditor.window.FCKeditorAPI.GetInstance(New_EditorId))
+    {
+        var oEditorIns = oEditor.window.FCKeditorAPI.GetInstance(New_EditorId)
+        var i=0;
+        while(GetE("FieldVal"+  i))
+        {
+            if (oEditorIns.EditingArea.Document.getElementById( SPrefix + GetE("FieldVal"+  i).innerHTML))
+		    {
+		        GetE("RBID"+i).disabled=true
+		    }
+		    i++;
+        }
+    }
+}
+
+</script>
+
+<script language =javascript >
+
+function GetCountVa(SPrefix)
+{
+    var Cnt =0
+    var TrpDocObj = window.parent.parent.document
+    var EditConts = TrpDocObj.all ("emaNyM")
+    if(EditConts.length)
+    {
+        for(var i=0;i<EditConts.length;i++)
+        {
+            var oEditorIns = oEditor.window.FCKeditorAPI.GetInstance(EditConts[i].value)
+            while(oEditorIns.EditingArea.Document.getElementById( SPrefix + Cnt))
+            {
+                Cnt+=1;
+            }
+        }
+    }
+    else
+    {
+        var oEditorIns = oEditor.window.FCKeditorAPI.GetInstance(EditConts.value)
+        while(oEditorIns.EditingArea.Document.getElementById( SPrefix + Cnt))
+        {
+            Cnt+=1;
+        }
+    }
+    
+    
+    return Cnt;
+}
+
+
+
+function Ok()
+{
+    var ExeIdPreFix ="CapHolderId"
+    var NewCnt = GetCountVa(ExeIdPreFix)
+    var TrpDocObj = window.parent.parent.document
+
+    var SPrefix = ""
+    if(TrpDocObj.getElementById ("TpltUniqueIdTxt"))
+        SPrefix = TrpDocObj.getElementById ("TpltUniqueIdTxt").value;
+
+    var Type =""
+    var Flag=0;
+    var i=0
+    while(GetE("FieldID" + i))
+	    {
+            if ( GetE("RBID"+i).checked==true)
+	        {
+	            if(GetE("RBID"+i).disabled==false)
+	            {
+                    Flag=1;
+                    
+                    var ExtId = ExeIdPreFix + NewCnt
+                    NewCnt +=1
+                    var ExtNode = FCK.EditorDocument.createElement(oEditor.FCKConfig.EntryFieldElement);
+                    ExtNode.id = ExtId;
+                     if (GetE("CapChk").checked==true)
+                    {ExtNode.innerText = GetE("KfLable"+  i).innerHTML + " : ";}
+                    FCK.InsertElement(ExtNode)
+                    FCK.InsertHtml("&nbsp;")
+                
+                
+                    var NODE=FCK.EditorDocument.createElement( oEditor.FCKConfig.EntryFieldElement ) ;
+                    
+                                       
+                    NODE.className ="PlanFieldCss";
+                    NODE.id= SPrefix + "_Plan_" + GetE("FieldVal"+  i).innerHTML;
+                    NODE.setAttribute ("calfld","9")
+                    //NODE.setAttribute ("fieldtype",GetE("FieldType" + i).innerHTML)
+                    NODE.setAttribute("AccessKey","C")
+                    NODE.innerText = " ";
+                    //NODE.innerText = "[ "+ GetE("FieldVal"+  i).innerHTML +" ]";
+                    NODE.contentEditable =false;
+
+                    FCK.InsertElement(NODE)
+                    FCK.InsertHtml("&nbsp;")
+                }
+            }
+	        i++;
+	    }
+    if(Flag ==0)
+        {
+            alert(FCKLang.EntySelectionAlert)
+            return  false;
+        }
+    return true ;
+}
+   
+</script>
+
+</head>
+<body style="overflow: hidden">
+    <div id="divAdvanced" style="">
+        <table cellspacing="0" cellpadding="0" width="100%" border="0">
+            <colgroup span="3">
+                <col />
+                <col />
+                <col />
+            </colgroup>
+            <tr>
+                <td colspan="3">
+                    <div id="FieldDataDiv" style ="overflow :scroll;width :500px;height:99%">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

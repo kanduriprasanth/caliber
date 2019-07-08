@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ImageManipulation.Class1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Class1.cs</FileName>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.DALCls" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Dalcls.cs</FileName>
+      <HashCode>CCAAAAIAAAIABABABACKAAAhEwEAAAAAAIAAAACIAEA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.ImageActions" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ImageActions.aspx.cs</FileName>
+      <HashCode>AgAACAAgAAABABAAAAAjQAAAACAAAAAEQAAAAkIIYAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.ImageCropper" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ImageCropper.aspx.cs</FileName>
+      <HashCode>AgAAAAAAACABABAAQAAjQAAAAAAAAgAEQAAAAFIIYAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.ImageMapping" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ImageMapping.aspx.cs</FileName>
+      <HashCode>AggAQCA4AAQRAAwAACAiQAgAAQAAABkAQAAAAgpAAIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.ImageViewer" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ImageViewer.aspx.cs</FileName>
+      <HashCode>AgAAIAAAAAQBAAAAACAQQACAIAAAAAkAQEAAAgIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.ListImages" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ListImages.aspx.cs</FileName>
+      <HashCode>AABAAAAAgAAEAgAEAIIgQAAjAAAEAAABMEAAAAIAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.MsgDisplay" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>MsgDisplay.aspx.cs</FileName>
+      <HashCode>AAAAAAAAEAAAAAAAAAAgABAAAIgAIAAAAAAggAIABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImageManipulation.SearchCtrl1" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SearchCtrl1.ascx.cs</FileName>
+      <HashCode>IBAAAAAAAAAAAAABAAIAAAAjIABAAAABAAAABAIBAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UICls" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UI.cs</FileName>
+      <HashCode>AIAAAIBAAAAAAAAEAAAAAAAABAAAACAAAIAAACQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

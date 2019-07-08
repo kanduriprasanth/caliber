@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AB50D4E3-E41B-453F-B172-B9384DA8CD2A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ImageManipulation</RootNamespace>
+    <AssemblyName>ImageManipulation</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CaliberCommonCtrls">
+      <HintPath>..\Common_Dlls\CaliberCommonCtrls.dll</HintPath>
+    </Reference>
+    <Reference Include="CaliberDataAccess">
+      <HintPath>..\Common_Dlls\CaliberDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="CaliberGlobalCls">
+      <HintPath>..\Common_Dlls\CaliberGlobalCls.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="basic.css" />
+    <Content Include="basic.js" />
+    <Content Include="basic_ie.css" />
+    <Content Include="ClientScripts\ajaxfileupload.js" />
+    <Content Include="ClientScripts\general.js" />
+    <Content Include="ClientScripts\init.js" />
+    <Content Include="ClientScripts\jquery-1.2.6-vsdoc.js" />
+    <Content Include="ClientScripts\jquery.Jcrop.js" />
+    <Content Include="ClientScripts\jquery.Jcrop.min.js" />
+    <Content Include="ClientScripts\jquery.js" />
+    <Content Include="ClientScripts\jquery.maphilight.min.js" />
+    <Content Include="ClientScripts\jquery.metadata.min.js" />
+    <Content Include="ClientScripts\jquery.min.js" />
+    <Content Include="ClientScripts\mobilymap.js" />
+    <Content Include="ClientScripts\sh.css" />
+    <Content Include="ClientScripts\sh.js" />
+    <Content Include="ClientScripts\Stylesheet1.css" />
+    <Content Include="ClientScripts\urchin.js" />
+    <Content Include="css\Jcrop.gif" />
+    <Content Include="css\jquery.Jcrop.css" />
+    <Content Include="demo.css" />
+    <Content Include="Icons\group.jpg" />
+    <Content Include="Icons\sago.jpg" />
+    <Content Include="Icons\settings_sel.gif" />
+    <Content Include="ImageActions.aspx" />
+    <Content Include="ImageCropper.aspx" />
+    <Content Include="ImageMapping.aspx" />
+    <Content Include="images old\111158960.png" />
+    <Content Include="images old\18121813.jpg" />
+    <Content Include="images old\181218453.jpg" />
+    <Content Include="images old\181220225.jpg" />
+    <Content Include="images old\181222323.jpg" />
+    <Content Include="images old\181231134.jpg" />
+    <Content Include="images old\18125554.jpg" />
+    <Content Include="images old\181338695.jpg" />
+    <Content Include="images old\181359461.jpg" />
+    <Content Include="images old\18142857.jpg" />
+    <Content Include="images old\181526444.jpg" />
+    <Content Include="images old\181528182.jpg" />
+    <Content Include="images old\181847927.jpg" />
+    <Content Include="images old\191141488.jpg" />
+    <Content Include="images old\191150436.jpg" />
+    <Content Include="images old\191750314.jpg" />
+    <Content Include="images old\191759765.jpg" />
+    <Content Include="images old\19932578.jpg" />
+    <Content Include="images old\201053943.jpg" />
+    <Content Include="images old\201251708.jpg" />
+    <Content Include="images old\201557110.jpg" />
+    <Content Include="images old\20176330.jpg" />
+    <Content Include="images old\6236837.jpg" />
+    <Content Include="images old\71456205.png" />
+    <Content Include="images\18121813.jpg" />
+    <Content Include="images\181218453.jpg" />
+    <Content Include="images\181220225.jpg" />
+    <Content Include="images\181222323.jpg" />
+    <Content Include="images\181231134.jpg" />
+    <Content Include="images\18125554.jpg" />
+    <Content Include="images\181338695.jpg" />
+    <Content Include="images\181359461.jpg" />
+    <Content Include="images\18142857.jpg" />
+    <Content Include="images\181526444.jpg" />
+    <Content Include="images\181528182.jpg" />
+    <Content Include="images\181847927.jpg" />
+    <Content Include="images\191141488.jpg" />
+    <Content Include="images\191150436.jpg" />
+    <Content Include="images\191750314.jpg" />
+    <Content Include="images\191759765.jpg" />
+    <Content Include="images\19932578.jpg" />
+    <Content Include="images\201053943.jpg" />
+    <Content Include="images\201251708.jpg" />
+    <Content Include="images\201557110.jpg" />
+    <Content Include="images\20176330.jpg" />
+    <Content Include="images\41237482.png" />
+    <Content Include="images\41256945.png" />
+    <Content Include="images\41357298.png" />
+    <Content Include="images\6236837.jpg" />
+    <Content Include="ImageViewer.aspx" />
+    <Content Include="jquery.simplemodal.js" />
+    <Content Include="ListImages.aspx" />
+    <Content Include="MenuPopup.aspx" />
+    <Content Include="MsgDisplay.aspx" />
+    <Content Include="QAActivites.aspx" />
+    <Content Include="ReadMenuStatus_Ajax.aspx" />
+    <Content Include="SearchCtrl1.ascx" />
+    <Content Include="UrlCfgPopup.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Dalcls.cs" />
+    <Compile Include="ImageActions.aspx.cs">
+      <DependentUpon>ImageActions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageActions.aspx.designer.cs">
+      <DependentUpon>ImageActions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageCropper.aspx.cs">
+      <DependentUpon>ImageCropper.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageCropper.aspx.designer.cs">
+      <DependentUpon>ImageCropper.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageMapping.aspx.cs">
+      <DependentUpon>ImageMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageMapping.aspx.designer.cs">
+      <DependentUpon>ImageMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageViewer.aspx.cs">
+      <DependentUpon>ImageViewer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageViewer.aspx.designer.cs">
+      <DependentUpon>ImageViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ListImages.aspx.cs">
+      <DependentUpon>ListImages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ListImages.aspx.designer.cs">
+      <DependentUpon>ListImages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPopup.aspx.cs">
+      <DependentUpon>MenuPopup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuPopup.aspx.designer.cs">
+      <DependentUpon>MenuPopup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MsgDisplay.aspx.cs">
+      <DependentUpon>MsgDisplay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MsgDisplay.aspx.designer.cs">
+      <DependentUpon>MsgDisplay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QAActivites.aspx.cs">
+      <DependentUpon>QAActivites.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QAActivites.aspx.designer.cs">
+      <DependentUpon>QAActivites.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ReadMenuStatus_Ajax.aspx.cs">
+      <DependentUpon>ReadMenuStatus_Ajax.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ReadMenuStatus_Ajax.aspx.designer.cs">
+      <DependentUpon>ReadMenuStatus_Ajax.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SearchCtrl1.ascx.cs">
+      <DependentUpon>SearchCtrl1.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SearchCtrl1.ascx.designer.cs">
+      <DependentUpon>SearchCtrl1.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UI.cs" />
+    <Compile Include="UrlCfgPopup.aspx.cs">
+      <DependentUpon>UrlCfgPopup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UrlCfgPopup.aspx.designer.cs">
+      <DependentUpon>UrlCfgPopup.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="images\Thumbs.db" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51128</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

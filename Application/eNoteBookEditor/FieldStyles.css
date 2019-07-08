@@ -1,0 +1,93 @@
+﻿.InputFieldCss
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :200px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;	
+}
+
+.BindingField
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :200px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;
+	line-height :18px;
+	margin :0px;
+	padding :0px;
+	
+}
+.DateTimeCss
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :60px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;
+	line-height :18px;
+	margin :0px;
+	padding :0px;
+
+}
+
+/*Preparation Fields*/
+.IFieldPreCss
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :200px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;	
+}
+
+/*Issuence Fields*/
+.IFieldIssCss
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :200px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;	
+}
+
+/*Execution Fields*/
+.IFieldExeCss
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :200px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;	
+}
+/*Closure Fields*/
+.IFieldClsCss
+{
+	background-color :lightcyan;
+	color :Black ;
+	display :inline ;
+	width :200px;
+	height :20px;
+	border-width :1px;
+	border-color :Black ;
+	border-style :solid ;	
+}

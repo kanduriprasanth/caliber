@@ -1,0 +1,3211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IssueTypeConfig
+</name>
+</assembly>
+<members>
+<member name="F:IssueTypeConfig.StatusChg.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.StatusChg.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.StatusChg.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.StatusChg.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AuditList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AuditList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AuditList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.KfLable">
+	<summary>
+KfLable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.ReqFieldValidator1">
+	<summary>
+ReqFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.KfId">
+	<summary>
+KfId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.GoBtn">
+	<summary>
+GoBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationList.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.CreationPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CategoryTd">
+	<summary>
+CategoryTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CategoryDDl">
+	<summary>
+CategoryDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.UniqueCodeTD">
+	<summary>
+UniqueCodeTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.UniqueCodeRdl">
+	<summary>
+UniqueCodeRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CodelvlTr">
+	<summary>
+CodelvlTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CodeLevelTd">
+	<summary>
+CodeLevelTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CodelvlTxt">
+	<summary>
+CodelvlTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.UcodeLevelTabTR">
+	<summary>
+UcodeLevelTabTR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.UcodeLevelTab">
+	<summary>
+UcodeLevelTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.Fieldlist">
+	<summary>
+Fieldlist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogIniGrpTd">
+	<summary>
+LogIniGrpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogInitGrpLbl">
+	<summary>
+LogInitGrpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogInitGrpIdTxt">
+	<summary>
+LogInitGrpIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogInitGrpTxt">
+	<summary>
+LogInitGrpTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogWofTd">
+	<summary>
+LogWofTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogWofLbl">
+	<summary>
+LogWofLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogWofIdTxt">
+	<summary>
+LogWofIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogWofDescTxt">
+	<summary>
+LogWofDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogRevCntTxt">
+	<summary>
+LogRevCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogAppCntTxt">
+	<summary>
+LogAppCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogRevColTxt">
+	<summary>
+LogRevColTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LogAppColTxt">
+	<summary>
+LogAppColTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LoginFldTab">
+	<summary>
+LoginFldTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.LoginFldBtn">
+	<summary>
+LoginFldBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.HeaderTd">
+	<summary>
+HeaderTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ttt">
+	<summary>
+ttt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.HRowsTd">
+	<summary>
+HRowsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.HRowsTxt">
+	<summary>
+HRowsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.HRows1Td">
+	<summary>
+HRows1Td control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.HRowsDd">
+	<summary>
+HRowsDd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.HeaderTr">
+	<summary>
+HeaderTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DHTabTd">
+	<summary>
+DHTabTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DHTab">
+	<summary>
+DHTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WorlAllGrpTd">
+	<summary>
+WorlAllGrpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WorlAllGrpLbl">
+	<summary>
+WorlAllGrpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WorlAllGrpIdTxt">
+	<summary>
+WorlAllGrpIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WorlAllGrpTxt">
+	<summary>
+WorlAllGrpTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnInitGrpTd">
+	<summary>
+ActPlnInitGrpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnInitGrpLbl">
+	<summary>
+ActPlnInitGrpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnInitGrpIDTxt">
+	<summary>
+ActPlnInitGrpIDTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnInitGrpTxt">
+	<summary>
+ActPlnInitGrpTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.StdPlaningGrpTd">
+	<summary>
+StdPlaningGrpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.StdPlaningGrpLbl">
+	<summary>
+StdPlaningGrpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.StdPlaningGrpIdTxt">
+	<summary>
+StdPlaningGrpIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.StdPlaningGrpTxt">
+	<summary>
+StdPlaningGrpTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnClsGrpTd">
+	<summary>
+ActPlnClsGrpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnClsGrpLbl">
+	<summary>
+ActPlnClsGrpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnClsGrpIdTxt">
+	<summary>
+ActPlnClsGrpIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ActPlnClsGrpTxt">
+	<summary>
+ActPlnClsGrpTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsIniGrpTd">
+	<summary>
+ClsIniGrpTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsInitGrpLbl">
+	<summary>
+ClsInitGrpLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsInitGrpIDTxt">
+	<summary>
+ClsInitGrpIDTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsInitGrpTxt">
+	<summary>
+ClsInitGrpTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsWofTd">
+	<summary>
+ClsWofTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsWofLbl">
+	<summary>
+ClsWofLbl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsWofIdTxt">
+	<summary>
+ClsWofIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsWofDescTxt">
+	<summary>
+ClsWofDescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsRevCntTxt">
+	<summary>
+ClsRevCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsAppCntTxt">
+	<summary>
+ClsAppCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsRevColTxt">
+	<summary>
+ClsRevColTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClsAppColTxt">
+	<summary>
+ClsAppColTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClosureFldTab">
+	<summary>
+ClosureFldTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ClosureFldBtn">
+	<summary>
+ClosureFldBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.AutoWrkAllTD">
+	<summary>
+AutoWrkAllTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.AutoWrkAllRdl">
+	<summary>
+AutoWrkAllRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WrkTempTr">
+	<summary>
+WrkTempTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WrkTempTd">
+	<summary>
+WrkTempTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WrkTempDDl">
+	<summary>
+WrkTempDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WrkPlanTd">
+	<summary>
+WrkPlanTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.WrkPlanRdl">
+	<summary>
+WrkPlanRdl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.AcceptanceTr">
+	<summary>
+AcceptanceTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.AcpDataShhetTD">
+	<summary>
+AcpDataShhetTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetLbl2">
+	<summary>
+DataSheetLbl2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetidTxt2">
+	<summary>
+DataSheetidTxt2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetDescTxt2">
+	<summary>
+DataSheetDescTxt2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.Recomendedrt">
+	<summary>
+Recomendedrt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.RecDataShhetTD">
+	<summary>
+RecDataShhetTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetLbl3">
+	<summary>
+DataSheetLbl3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetidTxt3">
+	<summary>
+DataSheetidTxt3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetDescTxt3">
+	<summary>
+DataSheetDescTxt3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ImplimentationDsTr">
+	<summary>
+ImplimentationDsTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ImpDataShhetTD">
+	<summary>
+ImpDataShhetTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetLbl4">
+	<summary>
+DataSheetLbl4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetidTxt4">
+	<summary>
+DataSheetidTxt4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetDescTxt4">
+	<summary>
+DataSheetDescTxt4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.TaskDsTr">
+	<summary>
+TaskDsTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataShhetTD">
+	<summary>
+DataShhetTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetLbl5">
+	<summary>
+DataSheetLbl5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetidTxt5">
+	<summary>
+DataSheetidTxt5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetDescTxt5">
+	<summary>
+DataSheetDescTxt5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ETdDSTr">
+	<summary>
+ETdDSTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.ETDDatasheetTD">
+	<summary>
+ETDDatasheetTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetLbl10">
+	<summary>
+DataSheetLbl10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetidTxt10">
+	<summary>
+DataSheetidTxt10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetDescTxt10">
+	<summary>
+DataSheetDescTxt10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.MRequestDsTr">
+	<summary>
+MRequestDsTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.MRDatasheetTD">
+	<summary>
+MRDatasheetTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetLbl11">
+	<summary>
+DataSheetLbl11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetidTxt11">
+	<summary>
+DataSheetidTxt11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.DataSheetDescTxt11">
+	<summary>
+DataSheetDescTxt11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.IsuDurationTr">
+	<summary>
+IsuDurationTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.IsuDurationTd">
+	<summary>
+IsuDurationTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.IsuDurationTxt">
+	<summary>
+IsuDurationTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CAPADurationTr">
+	<summary>
+CAPADurationTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CAPADurationTD">
+	<summary>
+CAPADurationTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CAPADurationTxt">
+	<summary>
+CAPADurationTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.CustVal">
+	<summary>
+CustVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.OldLogFldIdLst">
+	<summary>
+OldLogFldIdLst control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Trn.OldClsFldIdLst">
+	<summary>
+OldClsFldIdLst control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.App.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay1.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay1.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay1.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay1.img1">
+	<summary>
+img1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay1.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:IssueTypeConfig.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:IssueTypeConfig.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IssueTypeConfig.Particulars.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Particulars.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Particulars.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Particulars.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ReportConfigPopUp.TemplateType">
+	<summary>
+TemplateType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.ComFieldsTxt">
+	<summary>
+ComFieldsTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.ComFieldIDTxt">
+	<summary>
+ComFieldIDTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.ValdFldTxt">
+	<summary>
+ValdFldTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.FldIdTxt">
+	<summary>
+FldIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.SearchOptionLtrl1">
+	<summary>
+SearchOptionLtrl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.ValdatorsCntTxt">
+	<summary>
+ValdatorsCntTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ValidationRulePopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AppList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AppList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AppList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.RptConfigTd">
+	<summary>
+RptConfigTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.RptConfigDesTxtLab">
+	<summary>
+RptConfigDesTxtLab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.RptConfigDesTxt">
+	<summary>
+RptConfigDesTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.RptConfigIdTxt">
+	<summary>
+RptConfigIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.IssueAulIdTxt">
+	<summary>
+IssueAulIdTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueList.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl2.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl2.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl2.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl2.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl2.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.#ctor">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.CheckUserCrediantialsCompleted">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.InitiateCompleted">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.ReadMapMethodsCompleted">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.SaveExeDataCompleted">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.ReadMethodCompleted">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.ReadDataCompleted">
+	<remarks/>
+</member><member name="E:IssueTypeConfig.IssueLoginWS.Service1.ReadFolderPathsCompleted">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.CheckUserCrediantials(System.String,System.String,System.String,System.String@)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.CheckUserCrediantialsAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.CheckUserCrediantialsAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.Initiate(System.String,System.String,System.String,IssueTypeConfig.IssueLoginWS.InitiationType,IssueTypeConfig.IssueLoginWS.ObjectRecordStruct[],IssueTypeConfig.IssueLoginWS.ResponseMessageStruct[]@)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.InitiateAsync(System.String,System.String,System.String,IssueTypeConfig.IssueLoginWS.InitiationType,IssueTypeConfig.IssueLoginWS.ObjectRecordStruct[],IssueTypeConfig.IssueLoginWS.ResponseMessageStruct[])">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.InitiateAsync(System.String,System.String,System.String,IssueTypeConfig.IssueLoginWS.InitiationType,IssueTypeConfig.IssueLoginWS.ObjectRecordStruct[],IssueTypeConfig.IssueLoginWS.ResponseMessageStruct[],System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadMapMethods(System.Data.DataSet@)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadMapMethodsAsync(System.Data.DataSet)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadMapMethodsAsync(System.Data.DataSet,System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.SaveExeData(System.String,System.String)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.SaveExeDataAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.SaveExeDataAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadMethod(System.String)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadMethodAsync(System.String)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadMethodAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadData(System.String,System.String,System.String,System.String,System.Data.DataSet@)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadDataAsync(System.String,System.String,System.String,System.String,System.Data.DataSet)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadDataAsync(System.String,System.String,System.String,System.String,System.Data.DataSet,System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadFolderPaths(System.Data.DataSet@)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadFolderPathsAsync(System.Data.DataSet)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.ReadFolderPathsAsync(System.Data.DataSet,System.Object)">
+	<remarks/>
+</member><member name="M:IssueTypeConfig.IssueLoginWS.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.Service1">
+	<remarks/>
+</member><member name="F:IssueTypeConfig.IssueLoginWS.InitiationType.InitiateRegistration">
+	<remarks/>
+</member><member name="F:IssueTypeConfig.IssueLoginWS.InitiationType.ReInitiateRegistration">
+	<remarks/>
+</member><member name="F:IssueTypeConfig.IssueLoginWS.InitiationType.InitiateModification">
+	<remarks/>
+</member><member name="F:IssueTypeConfig.IssueLoginWS.InitiationType.ReInitiateModification">
+	<remarks/>
+</member><member name="F:IssueTypeConfig.IssueLoginWS.InitiationType.InitiateStatusChange">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.InitiationType">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.IssLoginDesc">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.IssLoginCode">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.IssueTypeId">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.InvesType">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.ParameterNameLst">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.ParameterValueLst">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct.ParameterDataTypeLst">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ObjectRecordStruct">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ResponseMessageStruct.MessageType">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ResponseMessageStruct.StdMessageText">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ResponseMessageStruct.KeyFieldValue">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ResponseMessageStruct.ErrorMessage">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ResponseMessageStruct">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.CheckUserCrediantialsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.CheckUserCrediantialsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.CheckUserCrediantialsCompletedEventArgs.ExceptionMsg">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.CheckUserCrediantialsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.InitiateCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.InitiateCompletedEventArgs.ResponseMessageRecords">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.InitiateCompletedEventArgs">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadMapMethodsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ReadMapMethodsCompletedEventArgs.Ds">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadMapMethodsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.SaveExeDataCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.SaveExeDataCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.SaveExeDataCompletedEventArgs">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadMethodCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ReadMethodCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadMethodCompletedEventArgs">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadDataCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ReadDataCompletedEventArgs.UserData">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadDataCompletedEventArgs">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadFolderPathsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:IssueTypeConfig.IssueLoginWS.ReadFolderPathsCompletedEventArgs.Ds">
+	<remarks/>
+</member><member name="T:IssueTypeConfig.IssueLoginWS.ReadFolderPathsCompletedEventArgs">
+	<remarks/>
+</member><member name="F:IssueTypeConfig.AuditDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AuditDisplay.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.AuditDisplay.ATDispTab">
+	<summary>
+ATDispTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.SearchOptionLtrl">
+	<summary>
+SearchOptionLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.SearchOptionRD">
+	<summary>
+SearchOptionRD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.FindLrl">
+	<summary>
+FindLrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.FindTxt">
+	<summary>
+FindTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.FetchSizeLtrl">
+	<summary>
+FetchSizeLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.FetchSizeTxt">
+	<summary>
+FetchSizeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.btnFind">
+	<summary>
+btnFind control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RevAppListPopUp.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.TableRow1">
+	<summary>
+TableRow1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExcelTEmplateGen.ReGenBtn">
+	<summary>
+ReGenBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExistingList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExistingList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ExistingList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ModifyList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ModifyList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.ModifyList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrfList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrfList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrfList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl.FromDate">
+	<summary>
+FromDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl.ToDate">
+	<summary>
+ToDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl.SearchTxt">
+	<summary>
+SearchTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl.SearchType">
+	<summary>
+SearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.SearchCtrl.ToDayDate">
+	<summary>
+ToDayDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.NameTd">
+	<summary>
+NameTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.NameTxt">
+	<summary>
+NameTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.PrefixTd">
+	<summary>
+PrefixTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.PrefixTxt">
+	<summary>
+PrefixTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.Fieldlist">
+	<summary>
+Fieldlist control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.StdFieldTitleTd">
+	<summary>
+StdFieldTitleTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.RegisterFieldsTab">
+	<summary>
+RegisterFieldsTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.StdClsFieldTitleTd">
+	<summary>
+StdClsFieldTitleTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.ClosureFieldsTab">
+	<summary>
+ClosureFieldsTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.EsignObj1">
+	<summary>
+EsignObj1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssReportConfig.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.Table3">
+	<summary>
+Table3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.AduitTD">
+	<summary>
+AduitTD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.Atab">
+	<summary>
+Atab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RITrf.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.SubTitleLtrl">
+	<summary>
+SubTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.IssTypeTd">
+	<summary>
+IssTypeTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.IssTypeDDL">
+	<summary>
+IssTypeDDL control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.IssTypeTxt">
+	<summary>
+IssTypeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.IssueID">
+	<summary>
+IssueID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.CodeTd">
+	<summary>
+CodeTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.CodeTxt">
+	<summary>
+CodeTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.DescTd">
+	<summary>
+DescTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.DescTxt">
+	<summary>
+DescTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.ValdString">
+	<summary>
+ValdString control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.ISSINVTd">
+	<summary>
+ISSINVTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.INVRd">
+	<summary>
+INVRd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.SampleTAb">
+	<summary>
+SampleTAb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.RemarksRow">
+	<summary>
+RemarksRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.RemarksLtrl">
+	<summary>
+RemarksLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.RemarksTxt">
+	<summary>
+RemarksTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.EsignRow">
+	<summary>
+EsignRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.EsignObj1">
+	<summary>
+EsignObj1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.IARow">
+	<summary>
+IARow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.IATab">
+	<summary>
+IATab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.BtnUpload">
+	<summary>
+BtnUpload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.unstuBtn">
+	<summary>
+unstuBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.Hlink">
+	<summary>
+Hlink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.ValidatorsTd">
+	<summary>
+ValidatorsTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.DummyLoginPage.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.HeaderDiv">
+	<summary>
+HeaderDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.ReportHeader1">
+	<summary>
+ReportHeader1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.TableRow6">
+	<summary>
+TableRow6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.EditorTd">
+	<summary>
+EditorTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.IssueListTable">
+	<summary>
+IssueListTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.FooterDiv">
+	<summary>
+FooterDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.PrintReport.ExpBtn">
+	<summary>
+ExpBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.MsgDisplay.MessageDisplay1">
+	<summary>
+MessageDisplay1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Config.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Config.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Config.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.Config.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:IssueTypeConfig.HtmlExport">
+	<summary>
+HtmlExport class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.SubLiteral">
+	<summary>
+SubLiteral control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.ReportHeader1">
+	<summary>
+ReportHeader1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.StartDtTd">
+	<summary>
+StartDtTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.EndDtTd">
+	<summary>
+EndDtTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.SearchRow">
+	<summary>
+SearchRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.ComplaintsRepTab">
+	<summary>
+ComplaintsRepTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.btnConfirm">
+	<summary>
+btnConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.CaliberPrintCtrl2">
+	<summary>
+CaliberPrintCtrl2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.HeaderDiv">
+	<summary>
+HeaderDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.HeaderObjIDs">
+	<summary>
+HeaderObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.HeaderObjTypes">
+	<summary>
+HeaderObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.BodyDiv">
+	<summary>
+BodyDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.BodyObjIDs">
+	<summary>
+BodyObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.BodyObjTypes">
+	<summary>
+BodyObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.BodyObjTabHeadRows">
+	<summary>
+BodyObjTabHeadRows control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.FooterDiv">
+	<summary>
+FooterDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.FooterObjIDs">
+	<summary>
+FooterObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueStatus.FooterObjTypes">
+	<summary>
+FooterObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.SubLiteral">
+	<summary>
+SubLiteral control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.StartDtTd">
+	<summary>
+StartDtTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.EndDtTd">
+	<summary>
+EndDtTd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.SearchRow">
+	<summary>
+SearchRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.MaxRecLtrl">
+	<summary>
+MaxRecLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.MaxRecCntLtrl">
+	<summary>
+MaxRecCntLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.RecPerPageLtrl">
+	<summary>
+RecPerPageLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.RecPerPageTxt">
+	<summary>
+RecPerPageTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.PgNoLtrl">
+	<summary>
+PgNoLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.PgNoTxt">
+	<summary>
+PgNoTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.ComplaintsRepTab">
+	<summary>
+ComplaintsRepTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.PrintExeclTr">
+	<summary>
+PrintExeclTr control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.CaliberPrintCtrl2">
+	<summary>
+CaliberPrintCtrl2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.HeaderDiv">
+	<summary>
+HeaderDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.HeaderObjIDs">
+	<summary>
+HeaderObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.HeaderObjTypes">
+	<summary>
+HeaderObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.BodyDiv">
+	<summary>
+BodyDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.BodyObjIDs">
+	<summary>
+BodyObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.BodyObjTypes">
+	<summary>
+BodyObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.BodyObjTabHeadRows">
+	<summary>
+BodyObjTabHeadRows control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.FooterDiv">
+	<summary>
+FooterDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.FooterObjIDs">
+	<summary>
+FooterObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.IssueRptList.FooterObjTypes">
+	<summary>
+FooterObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.Header1">
+	<summary>
+Header1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.HeaderDiv">
+	<summary>
+HeaderDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.H1">
+	<summary>
+H1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.BodyDiv">
+	<summary>
+BodyDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.DisTable">
+	<summary>
+DisTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.DetailsTable">
+	<summary>
+DetailsTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.ResultTable">
+	<summary>
+ResultTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.FooterDiv">
+	<summary>
+FooterDiv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.F3">
+	<summary>
+F3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.HeaderObjIDs">
+	<summary>
+HeaderObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.HeaderObjTypes">
+	<summary>
+HeaderObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.BodyObjIDs">
+	<summary>
+BodyObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.BodyObjTypes">
+	<summary>
+BodyObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.BodyObjTabHeadRows">
+	<summary>
+BodyObjTabHeadRows control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.FooterObjIDs">
+	<summary>
+FooterObjIDs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.FooterObjTypes">
+	<summary>
+FooterObjTypes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.Footer1">
+	<summary>
+Footer1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RegParticulars.CaliberPrintCtrl1">
+	<summary>
+CaliberPrintCtrl1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RIList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RIList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.RIList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.StatusChgList.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.StatusChgList.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IssueTypeConfig.StatusChgList.CrTopTable">
+	<summary>
+CrTopTable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

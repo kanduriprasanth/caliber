@@ -1,0 +1,318 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>1</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Specification ID</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut>3242342342</ShortCut>
+    <TaskCount>1</TaskCount>
+    <Path>../Specification/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>49</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M158</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>33</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Service Provider</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut>1234567897</ShortCut>
+    <TaskCount>1</TaskCount>
+    <Path>../Vendor/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>293</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M151</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>34</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Specification ID List</ObjectName>
+    <TaskTypeDesc>Specification ID List</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>2</TaskCount>
+    <Path>../SpedIdReports/SpecIDLst.aspx</Path>
+    <WorkId>1</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>367</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M163</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>30</UserID>
+    <TaskID>37</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Specification ID</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../Specification/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>49</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M158</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>30</UserID>
+    <TaskID>38</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Specification ID</ObjectName>
+    <TaskTypeDesc>Re-initiation</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../Specification/RIList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>66</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M159</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>30</UserID>
+    <TaskID>52</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>product / Material</ObjectName>
+    <TaskTypeDesc>Re-initiation</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>2</TaskCount>
+    <Path>../Product/RIList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>65</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M106</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>30</UserID>
+    <TaskID>55</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Service Provider</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../Vendor/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>293</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M151</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>30</UserID>
+    <TaskID>57</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Specification ID List</ObjectName>
+    <TaskTypeDesc>Specification ID List</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>2</TaskCount>
+    <Path>../SpedIdReports/SpecIDLst.aspx</Path>
+    <WorkId>1</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>367</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M163</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>14</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Type</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>7</TaskCount>
+    <Path>../SampleType/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>51</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M135</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>15</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Specification ID</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>7</TaskCount>
+    <Path>../Specification/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>49</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M158</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>16</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>24</TaskCount>
+    <Path>../Test/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>58</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M168</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>17</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>OOS Template</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut>OOSApprova</ShortCut>
+    <TaskCount>5</TaskCount>
+    <Path>../OOSTemplate/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>62</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M74</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>18</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>COA Template</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>12</TaskCount>
+    <Path>../COATemplate/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>57</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M34</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>19</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Work Sheet Header</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>6</TaskCount>
+    <Path>../WSHTemplete/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>262</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M234</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>20</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Business Associate</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut>Approvals</ShortCut>
+    <TaskCount>11</TaskCount>
+    <Path>../Customer/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>50</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M15</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>21</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Work Sheet</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>26</TaskCount>
+    <Path>../WorkSheet/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>53</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M221</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>22</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>product / Material</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>19</TaskCount>
+    <Path>../Product/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>48</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M105</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>10</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>product / Material</ObjectName>
+    <TaskTypeDesc>Re-initiation</TaskTypeDesc>
+    <ShortCut>Re-Ini</ShortCut>
+    <TaskCount>3</TaskCount>
+    <Path>../Product/RIList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>65</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M106</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>23</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Plan</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>18</TaskCount>
+    <Path>../RSpc/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>56</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M181</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>24</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Service Provider</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>19</TaskCount>
+    <Path>../Vendor/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>293</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M151</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>13</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Specification ID List</ObjectName>
+    <TaskTypeDesc>Specification ID List</TaskTypeDesc>
+    <ShortCut>@@@</ShortCut>
+    <TaskCount>2</TaskCount>
+    <Path>../SpedIdReports/SpecIDLst.aspx</Path>
+    <WorkId>1</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>367</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M163</MENUCODE>
+  </Table1>
+</NewDataSet>

@@ -1,0 +1,509 @@
+BODY{Background-Color:#FFFFFF;}
+a{ text-decoration:none;}
+/*TABLE Styles*/
+/*.MainTable{Background-color:#3A4AAE;Border-style:outset;border-width:2px;border-top:none;border-left:none;Padding:10px;width:90%}*/
+.MainTable
+{
+
+/*filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#3A4AAE', endColorstr='#3A4AAE', gradientType='0');*/
+Border-style:outset;border-width:2px;border-top:none;border-left:none;Padding:2px;width:90%;
+border:2px solid #C4DCFB;
+
+}
+.SubTable{Background-color:#C4DCFB; border-width:1px  }
+
+ 
+/*Header Caption Styles*/
+.MainHead{Color:Black;Height:20px;Font-weight:bold;font-family:Verdana;font-size:10.5pt;Padding-bottom:5px;background-image: url(../IMAGES/bg_hd.gif);}
+.BodyHead{Color:DarkRed;Height:25px;Font-weight:bold;font-family:Microsoft Sans Serif,Arial;font-size:10pt;Padding-bottom:5px;}
+
+.SubHead
+{
+background-image: url(../IMAGES/VolSolNameReg1.jpg);
+Height:20px;Color:Black;font-family:Verdana;font-weight: bold;font-size:9.5pt;Padding-Left:5px; padding-right:5px;
+}
+
+.ListSubHead{Background-color:#FFFFFF;Height:20px;Color:#000000;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:5px; padding-right:5px;}
+TestReg{Background-color:#8495CD;Height:20px;Color:#FFFFFF;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:5px; padding-right:5px; }
+ 
+
+/*Radiobutton List Styles*/
+.RBList{Border-Style:groove;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Border-Width:2px;text-justify:newspaper;}
+.ResultCls{Background-Color:#9EAFC4;Border-Style:groove;Border-Width:2px;}
+.RadioCls{Border-Style:groove;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Border-Width:2px;text-justify:newspaper;}
+
+/*TD Styles*/
+.MainTD
+{
+Background-Color:#FFFFFF;font-family:Verdana,Arial;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;
+}
+.BoldCapt
+{
+Background-Color:#FFFFFF; font-family:Verdana,Arial;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;font-weight:600;
+}
+
+.WsFieldTd1{Background-Color:#FFFFFF;font-family:Arial;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px; }
+.WsFieldTd2{Background-Color:#FFFFFF;font-family:Arial;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px; }
+.WsFieldTd3{Background-Color:#FFFFFF;font-family:Arial;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px; }
+
+.WsFieldHeadTd1{Background-Color:#E1E3F2;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+.WsFieldHeadTd2{Background-Color:#E1E3F2;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+.WsFieldHeadTd3{Background-Color:#E1E3F2;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+
+.BindTxtCls{Border-Style:double;Border-Color:#336699;Border-Width:1px;font-family:Microsoft Sans Serif,Arial;font-size:7.5pt; background-color:lightyellow}
+
+.MainTD2
+{
+	padding-left: 2px;
+	font-size: 8.5pt;
+	font-family: Verdana/*Microsoft Sans Serif,Arial*/;
+	background-color: white;
+	color:black;
+	font-weight:600
+}
+.MainTD3{Background-Color:#F3F1D4;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+.TestName{background-image: url(IMAGES/center-bg-menustrip.png); color:Black; font-family:Arial;font-size:9pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px; }
+
+.HeadTD{/*Background-Color:#C4DCFB;*/background-image: url(IMAGES/tabon_new.gif);font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+/*.SubHeadTD{Background-Color:#C8CFED;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}*/
+.SubHeadTD
+{
+background-image: url(../IMAGES/tblheadbg.jpg);font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;
+}
+.ObservTD{background-image: url(../IMAGES/tabon.gif);font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+.SpObservTD{Background-Color:#E1E3F2;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+.LimitTD{Background-Color:#C3C1B4;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+
+/*.RevisionTD{Background-Color:#7D8BC9;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;color:white;}*/
+.RevisionTD
+{
+/*filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#7A87D9', endColorstr='#C5CEF5', gradientType='0');*/
+background-image: url(../IMAGES/blue_button_repe.gif);
+font-family:Verdana;font-size:9pt;Padding-Left:2px;color:'#021460';font-weight: bold;
+}
+.ParticularsTD{Background-Color:#0A51A1;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+.AuditHeadTD{background-image: url(../IMAGES/tblheadbg.jpg);font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+
+/*.IAHeadTD{Background-Color:#7D8BC9;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;color:white;}*/
+.IAHeadTD
+{
+background-image:url(IMAGES/tabon.gif);
+font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;color:'#021460';font-weight: bold;
+}
+.TestListHeadTD{background-image: url(../IMAGES/bgaero.gif);font-family:Microsoft Sans Serif,Arial;font-size:9pt;Padding-Left:2px;}
+ 
+/*.ActAppTD{Background-Color:#FFFFFF; font-family:Verdana;font-size:9pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px;}*/
+.ActAppTD
+{
+/*filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#6478CC', endColorstr='#ffffff', gradientType='0');*/
+font-family:Verdana;font-size:9pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; background-color:'#C4DCFB';font-weight: bold;
+background-image: url(../IMAGES/bkg_cmntBoxTop.gif); background-repeat:no-repeat;
+}
+/*.InActAppTD{Background-Color:#A4AEC9; background-image:url(images/vasu/strip_1c.gif);font-family:Verdana;font-size:9pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px;}*/
+.InActAppTD
+{
+/*filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#6478CC', endColorstr='#6478CC', gradientType='0');*/
+background-color:'#C4DCFB';Border-style:outset;border-width:1px;cursor:hand;
+font-family:Verdana;font-size:9pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px;color:black;
+background-image: url(../IMAGES/bkg_cmntBoxTop.gif);background-repeat:no-repeat;   
+}
+/*.InActAppTD
+{
+filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr='#A4AEC9', endColorstr='#ffffff', gradientType='0');
+background-image:url(images/vasu/strip_1c.gif);font-family:Verdana;font-size:9pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px;color:black;
+}
+*/
+
+/*Footer TD styles*/
+.ApproveTD{font-size:9pt;Padding-Left:2px;Background-color:#008000;}
+.ReCheckTD{font-size:9pt;Padding-Left:2px;Background-color:#ff9900;}
+.ReTestTD{font-size:9pt;Padding-Left:2px;Background-color:#ff0000;}
+
+.MainFoot
+{
+	font-size: 10pt;
+	color: RED;
+	font-family: Microsoft Sans Serif,Arial;
+	height: 25px;	
+	background-color: #3A4AAE;
+	background-image: url(../IMAGES/bg_hd.gif);
+}
+
+.TxtCls{Border-Style:double;Border-Color:#336699;Border-Width:1px;font-family:Microsoft Sans Serif,Arial;font-size:9pt;}
+
+.UCTxtCls{Border-Style:double;Border-Color:#336699;Border-Width:1px;font-family:Microsoft Sans Serif,Arial;font-size:9pt; background-color:lightyellow}
+
+.ROTxtCls{Border-Style:double;Border-Color:#336699;Border-Width:1px;font-family:Microsoft Sans Serif,Arial;font-size:9pt;Background-Color:#C3C1B4;}
+
+SELECT{font-family:Microsoft Sans Serif,Verdana;font-size:8pt;}
+.FontCls{font-family:Microsoft Sans Serif,Arial;font-size:9pt;}
+
+/* Button Class Sheet */
+/*.ButCls{Background-color:#7486d4;Color:'#ffffff';Font-weight:bold;Border-style:outset;border-width:1px;cursor:hand;font-family:Microsoft Sans Serif,Arial;font-size:9pt;}*/
+.ButOCls
+{
+/*filter:progid:DXImageTransform.Microsoft.Gradient(gradientType=0, startColorStr=#98B2E6, endColorStr=#FFFFFF);*/
+background-image: url(../IMAGES/Yellow.bmp);
+ Font-weight:bold;Border-style:outset;border-width:1px;cursor:hand;font-family:Microsoft Sans Serif,Arial;font-size:9pt; 
+}
+.ButCls
+{
+ 
+ Font-weight:bold;Border-style:outset;border-width:1px;cursor:hand;font-family:Microsoft Sans Serif,Arial;font-size:9pt;
+background-image: url(../IMAGES/blue_button_repe.gif);  color:Black;
+}
+/*.ButOCls{Background-color:#3A4AAE;Color:white;Font-weight:bold;Border-style:outset;border-width:1px;cursor:hand;font-family:Microsoft Sans Serif,Arial;font-size:9pt;}*/
+INPUT.down { BORDER-TOP-WIDTH: 1px; BACKGROUND-POSITION: center 50%; BORDER-LEFT-WIDTH: 1px; BACKGROUND-IMAGE: url(IMAGES/down.jpg); BORDER-BOTTOM-WIDTH: 1px; WIDTH: 16px; HEIGHT: 16px; BORDER-RIGHT-WIDTH: 1px }
+INPUT.up { BORDER-TOP-WIDTH: 1px; BACKGROUND-POSITION: center 50%; BORDER-LEFT-WIDTH: 1px; BACKGROUND-IMAGE: url(IMAGES/up.jpg); BORDER-BOTTOM-WIDTH: 1px; WIDTH: 16px; HEIGHT: 16px; BORDER-RIGHT-WIDTH: 1px }
+
+.HideRow{display:none; height:0px;}
+.ShowRow{display:block;}
+
+.Hlink{color:Blue;cursor:hand}
+.RsnPUP{BACKGROUND-POSITION: right 40%; BORDER-WIDTH:1px; BACKGROUND-IMAGE: url(Images/Popup.jpg);WIDTH:25px;HEIGHT:22px;background-repeat:no-repeat;Background-Color:white;Border-Top-Color:#999999;Border-Left-Color:#999999;Border-Right-width:1px;Border-Bottom-width:1px;}
+.GoLink{BACKGROUND-POSITION: right 40%; BORDER-WIDTH:1px; BACKGROUND-IMAGE: url(Images/f-next.gif);WIDTH:25px;HEIGHT:22px;background-repeat:no-repeat;Background-Color:white;Border-Top-Color:#999999;Border-Left-Color:#999999;Border-Right-width:1px;Border-Bottom-width:1px;}
+
+ .hide { DISPLAY: none; BACKGROUND-COLOR: #cccccc }
+ .show { DISPLAY: block; BACKGROUND-COLOR: #cccccc }
+ 
+ .down { BORDER-TOP-WIDTH: 1px; BACKGROUND-POSITION: center 30%; BORDER-LEFT-WIDTH: 1px; BACKGROUND-IMAGE: url(../Images/plus.gif); BORDER-BOTTOM-WIDTH: 1px; WIDTH: 15px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 15px; BORDER-RIGHT-WIDTH: 1px }
+.up { BORDER-TOP-WIDTH: 1px; BACKGROUND-POSITION: center 30%; BORDER-LEFT-WIDTH: 1px; BACKGROUND-IMAGE: url(../Images/minus.gif); BORDER-BOTTOM-WIDTH: 1px; WIDTH: 15px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 15px; BORDER-RIGHT-WIDTH: 1px }
+.chkCls { BORDER-RIGHT: 2px groove; BORDER-TOP: 2px groove; BORDER-LEFT: 2px groove; WIDTH: 18px; BORDER-BOTTOM: 2px groove; HEIGHT: 18px; BACKGROUND-COLOR: orange }
+.MainTDOver { PADDING-LEFT: 2px; FONT-SIZE: 9pt; FONT-FAMILY: Arial; BACKGROUND-COLOR: #ffdab9 }
+LABEL.lblSubMenu { BORDER-RIGHT: #999999; BORDER-TOP: #999999; BORDER-LEFT: #999999; WIDTH: 90%; BORDER-BOTTOM: #999999 1px solid }
+
+
+ /*-------------Caliber Calander Styles------------------------*/
+
+div.calendar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	background-color: #DBDFE3;
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:150px;
+	height:auto;
+	z-index:1;
+	cursor: hand;
+	visibility: hidden;
+	border: 1px solid #000000;
+}
+table.calendar {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000033;
+	text-decoration: blink;
+	border: none;
+	width:100%;
+}
+td.day {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border: 1px solid #000033;
+	width: 14%;
+	text-align: center;
+}
+td.day_out {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border: 1px solid #333333;
+	width: 14%;
+	text-align: center;
+	color: gray;
+	background-color: #E8EDE7;
+}
+td.day_c {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border: 1px solid #333333;
+	width: 14%;
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+td.wd {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border: 1px none #000033;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #006666;
+	font-variant: small-caps;
+	text-align: center;
+	width: 14%;
+}
+td.closew {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	border: 1px none #000033;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: black;
+	font-variant: small-caps;
+	text-align: center;
+	width: 14%;
+}
+
+
+
+
+
+/*--------------------end of Caliber Calander styles---------------*/
+
+.anchorTxt
+{
+    FONT-SIZE: 12px;
+    CURSOR: hand;
+    COLOR: blue;
+    BORDER-TOP-STYLE: none;
+    FONT-FAMILY: 'verdana';
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BACKGROUND-COLOR: transparent;
+    TEXT-ALIGN: left;
+    TEXT-DECORATION: underline;
+    BORDER-BOTTOM-STYLE: none
+}
+
+.NoteTD
+{
+Background-Color:#FFFFFF;font-family:Verdana,Arial;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;
+}
+
+/*For Communication Module-------------------------*/
+.AlertBlink
+{
+	padding-right: 3px;
+	padding-left: 3px;
+	font-size: 8pt;
+	background-image: url(IMAGES/alert_anim.gif);
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-repeat: no-repeat;
+	font-family: Verdana;
+	background-color: #ffffff;
+}
+.AlertNormal
+{
+	padding-right: 3px;
+	padding-left: 3px;
+	font-size: 8pt;
+	background-image: url(IMAGES/alert_static.gif);
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background-repeat: no-repeat;
+	font-family: Verdana;
+	background-color: #ffffff;
+}
+.ReportBlink
+{
+	Background-Color:#FFFFFF;font-family:Verdana;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;
+	background-image: url(IMAGES/report_alert_anim.gif);
+	background-repeat: no-repeat;
+}
+.ReportNormal
+{
+	Background-Color:#FFFFFF;font-family:Verdana;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;
+	background-image: url(IMAGES/report_alert_static.gif);
+	background-repeat: no-repeat;
+}
+.ActionBlink
+{
+	Background-Color:#FFFFFF;font-family:Verdana;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;
+	background-image: url(IMAGES/action_alert_anim.gif);
+	background-repeat: no-repeat;
+}
+.ActionNormal
+{
+	Background-Color:#FFFFFF;font-family:Verdana;font-size:8pt;Padding-Left:3px;Padding-Top:2px;Padding-Bottom:2px; padding-right:3px;
+	background-image: url(IMAGES/action_alert_static.gif);
+	background-repeat: no-repeat;
+}
+.BlinkTrend{BACKGROUND-POSITION: right 40%; BORDER-WIDTH:1px; BACKGROUND-IMAGE: url(Images/graph_anim.gif);WIDTH:25px;HEIGHT:22px;background-repeat:no-repeat;Background-Color:white;Border-Top-Color:#999999;Border-Left-Color:#999999;Border-Right-width:1px;Border-Bottom-width:1px;}
+.Trend{BACKGROUND-POSITION: right 40%; BORDER-WIDTH:1px; BACKGROUND-IMAGE: url(Images/graph.jpg);WIDTH:25px;HEIGHT:22px;background-repeat:no-repeat;Background-Color:white;Border-Top-Color:#999999;Border-Left-Color:#999999;Border-Right-width:1px;Border-Bottom-width:1px;}
+.whide { BORDER-TOP-WIDTH: 1px; BACKGROUND-POSITION: center 30%; BORDER-LEFT-WIDTH: 1px; BACKGROUND-IMAGE: url(Images/up.jpg); BORDER-BOTTOM-WIDTH: 1px; WIDTH: 15px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 15px; BORDER-RIGHT-WIDTH: 1px }
+
+.wshow { BORDER-TOP-WIDTH: 1px; BACKGROUND-POSITION: center 30%; BORDER-LEFT-WIDTH: 1px; BACKGROUND-IMAGE: url(Images/down.jpg); BORDER-BOTTOM-WIDTH: 1px; WIDTH: 15px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 15px; BORDER-RIGHT-WIDTH: 1px }
+
+
+
+/*******************************New  Calendar style sheet******************************************************************/
+#calendarDiv{
+	position:absolute;
+	width:205px;
+	border:1px solid #9cbdff;
+	padding:1px;	
+	background-image: url(../IMAGES/bg_hd_big.gif);
+	font-family:arial;
+	font-size:10px;
+	padding-bottom:20px;
+	visibility:hidden;
+	/*background-image: url(../IMAGES/bg-snippet.png);  */
+}
+#calendarDiv span,#calendarDiv img{
+	float:left;
+	
+	
+}
+#calendarDiv .selectBox,#calendarDiv .selectBoxOver{
+	
+	line-height:12px;
+	padding:1px;
+	cursor:pointer;
+	padding-left:2px;
+	color:#9cbdff;
+	 
+	
+}
+
+#calendarDiv .selectBoxTime,#calendarDiv .selectBoxTimeOver{	
+	line-height:12px;
+	padding:1px;
+	cursor:pointer;
+	padding-left:2px;
+	
+}
+
+#calendarDiv td{
+	padding:3px;
+	margin:0px;
+	font-size:10px;	 
+	font-family:Verdana;	 
+	width:220px;
+	position:relative;	
+	overflow:hidden;
+	
+}
+
+
+
+#calendarDiv .selectBox{
+	border:1px solid #C4DCFB;		
+	color: black;
+	position:relative;
+
+	
+	
+}
+#calendarDiv .selectBoxOver{
+	border:1px solid #C4DCFB;
+	/*background-color: #9cbdff;*/	
+	color: #FFF;
+	position:relative;
+	
+}
+#calendarDiv .selectBoxTime{
+	border:1px solid #317082;		
+	color: #317082;
+	position:relative;
+	
+}
+#calendarDiv .selectBoxTimeOver{
+	border:1px solid #216072;	
+	color: #216072;
+	position:relative;
+	
+}
+
+#calendarDiv .topBar{
+	height:16px;
+	padding:5px;
+	/*background-color: #317082;*/
+	/*background-color: #9cbdff;*/
+	background-image: url(../IMAGES/center-bg-menustrip.png);
+
+
+}
+#calendarDiv .activeDay{	/* Active day in the calendar */
+	color:#FF0000;
+	 font-weight:bold;
+	 
+}
+#calendarDiv .todaysDate{
+	height:17px;
+	line-height:17px;
+	padding:2px;
+	/*background-color: #E2EBED; 
+	background-color: #9cbdff;*/	
+	
+	background-image: url(../IMAGES/center-bg-menustrip.png);
+
+	border-color:#fff;
+	text-align:center;
+	position:absolute;
+	bottom:0px;
+	width:201px;
+	font-family:Verdana;
+}
+#calendarDiv .todaysDate div{
+	float:left;
+}
+	
+#calendarDiv .timeBar{
+	height:17px;
+	line-height:17px;
+	background-color: #E2EBED;
+	width:72px;
+	color:#FFF;
+	position:absolute;
+	right:0px;
+}
+
+#calendarDiv .timeBar div{
+	float:left;
+	margin-right:1px;
+}
+
+
+#calendarDiv .monthYearPicker{
+	background-color: #FFF;
+	border:1px solid #9cbdff;
+	font-family:Verdana;
+	font-size:9px;
+	position:absolute;
+	color: Black;
+	left:0px;
+	top:15px;
+	z-index:1000;
+	display:none;
+
+}
+#calendarDiv #monthSelect{
+	width:70px;
+}
+#calendarDiv .monthYearPicker div{
+	float:none;
+	clear:both;	
+	padding:1px;
+	margin:1px;	
+	cursor:pointer;
+}
+#calendarDiv .monthYearActive{
+	background-color:#9cbdff;
+	color: #E2EBED;
+}
+
+#calendarDiv td{
+	text-align:right;
+	cursor:pointer;
+	  
+}
+
+#calendarDiv .topBar img{
+	cursor:pointer;
+}
+#calendarDiv .topBar div{
+	float:left;
+	margin-right:1px;
+}
+
+ .ATSubHeading
+{
+	background-image: url(IMAGES/center-bg-menustrip.png);
+	
+	}
+
+
+

@@ -1,0 +1,393 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>31</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Login</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../Sample/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>47</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M124</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>39</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Trend Analysis</ObjectName>
+    <TaskTypeDesc>Test Trend Analysis</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/TestPlanSelection.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>111</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M199</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>40</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Analyst Performance</ObjectName>
+    <TaskTypeDesc>Analyst Performance</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/AnalystPerformance.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>192</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M1</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>41</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>My Work Load</ObjectName>
+    <TaskTypeDesc>My Work Load</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/SampleStatusBoard.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>313</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M68</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>42</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Status</ObjectName>
+    <TaskTypeDesc>Sample Status</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/AllSamplesStatus.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>314</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M130</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>43</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Work Load Under Analyst</ObjectName>
+    <TaskTypeDesc>Work Load Under Analyst</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/SamplesUnderAnalysts.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>113</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M217</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>27</UserID>
+    <TaskID>44</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Status By Sample Types</ObjectName>
+    <TaskTypeDesc>Sample Status By Sample Types</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/SampleStatus.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>112</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M131</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>1</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Sample Login</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut>SamApp</ShortCut>
+    <TaskCount>3</TaskCount>
+    <Path>../Sample/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>47</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M124</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>6</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Sample Login</ObjectName>
+    <TaskTypeDesc>Re-initiation</TaskTypeDesc>
+    <ShortCut>SamRi</ShortCut>
+    <TaskCount>4</TaskCount>
+    <Path>../Sample/RIList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>64</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M125</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>7</TaskID>
+    <QTask>1</QTask>
+    <ObjectName>Test Results(TCI)</ObjectName>
+    <TaskTypeDesc>Test Results(TCI)</TaskTypeDesc>
+    <ShortCut>TCI</ShortCut>
+    <TaskCount>1</TaskCount>
+    <Path>../TestData/AppList.aspx?AST=1</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>59</MenuID>
+    <SubMenuID>26</SubMenuID>
+    <MENUCODE>M198</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>8</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Results(SI)</ObjectName>
+    <TaskTypeDesc>Test Results(SI)</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>10</TaskCount>
+    <Path>../TestData/AppList.aspx?AST=2</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>60</MenuID>
+    <SubMenuID>27</SubMenuID>
+    <MENUCODE>M197</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>9</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Results(MGR)</ObjectName>
+    <TaskTypeDesc>Test Results(MGR)</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>2</TaskCount>
+    <Path>../TestData/AppList.aspx?AST=3</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>61</MenuID>
+    <SubMenuID>28</SubMenuID>
+    <MENUCODE>M195</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>12</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>My Samples</ObjectName>
+    <TaskTypeDesc>My Samples</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>85</TaskCount>
+    <Path>../TestData/MyWorkList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>104</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M67</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>13</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>OOS Tests</ObjectName>
+    <TaskTypeDesc>OOS Tests</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../TestData/MyOOSWorkList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>105</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M79</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>14</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>OOS Pending List</ObjectName>
+    <TaskTypeDesc>OOS Pending List</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>6</TaskCount>
+    <Path>../TestData/OOSSampleList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>106</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M71</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>15</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Trend Analysis</ObjectName>
+    <TaskTypeDesc>Test Trend Analysis</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/TestPlanSelection.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>111</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M199</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>16</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Analyst Performance</ObjectName>
+    <TaskTypeDesc>Analyst Performance</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/AnalystPerformance.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>192</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M1</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>17</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>My Work Load</ObjectName>
+    <TaskTypeDesc>My Work Load</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/SampleStatusBoard.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>313</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M68</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>18</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Status</ObjectName>
+    <TaskTypeDesc>Sample Status</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/AllSamplesStatus.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>314</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M130</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>19</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Work Load Under Analyst</ObjectName>
+    <TaskTypeDesc>Work Load Under Analyst</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/SamplesUnderAnalysts.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>113</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M217</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>20</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Status By Sample Types</ObjectName>
+    <TaskTypeDesc>Sample Status By Sample Types</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../BasicReports/SampleStatus.aspx</Path>
+    <WorkId>3</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>112</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M131</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>32</UserID>
+    <TaskID>21</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Control Sample Destruction</ObjectName>
+    <TaskTypeDesc>Control Sample Destruction</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>109</TaskCount>
+    <Path>../CtrlSampleDestruction/CtrlSmpDestruction.aspx</Path>
+    <WorkId>1</WorkId>
+    <ModuleID>12</ModuleID>
+    <MenuID>302</MenuID>
+    <SubMenuID>294</SubMenuID>
+    <MENUCODE>CNTSMP</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>33</UserID>
+    <TaskID>2</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Login</ObjectName>
+    <TaskTypeDesc>Approval</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>21</TaskCount>
+    <Path>../Sample/AppList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>47</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M124</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>33</UserID>
+    <TaskID>3</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Sample Login</ObjectName>
+    <TaskTypeDesc>Re-initiation</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>1</TaskCount>
+    <Path>../Sample/RIList.aspx</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>64</MenuID>
+    <SubMenuID>0</SubMenuID>
+    <MENUCODE>M125</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>33</UserID>
+    <TaskID>4</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Results(TCI)</ObjectName>
+    <TaskTypeDesc>Test Results(TCI)</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>4</TaskCount>
+    <Path>../TestData/AppList.aspx?AST=1</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>59</MenuID>
+    <SubMenuID>26</SubMenuID>
+    <MENUCODE>M198</MENUCODE>
+  </Table1>
+  <Table1>
+    <UserID>33</UserID>
+    <TaskID>5</TaskID>
+    <QTask>0</QTask>
+    <ObjectName>Test Results(SI)</ObjectName>
+    <TaskTypeDesc>Test Results(SI)</TaskTypeDesc>
+    <ShortCut />
+    <TaskCount>6</TaskCount>
+    <Path>../TestData/AppList.aspx?AST=2</Path>
+    <WorkId>2</WorkId>
+    <ModuleID>1</ModuleID>
+    <MenuID>60</MenuID>
+    <SubMenuID>27</SubMenuID>
+    <MENUCODE>M197</MENUCODE>
+  </Table1>
+</NewDataSet>

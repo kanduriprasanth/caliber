@@ -1,0 +1,8 @@
+Blue: 
+#3d77cb
+
+Light Whie:
+#d6deec
+
+Tab color:
+#a6c0e4

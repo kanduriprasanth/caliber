@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\CALINTG_PUBLISH\QAMS300BL\PlantReg\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="RIList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="SearchCtrl.ascx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="CreationPopUp.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="ModifyList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="bin/PlantReg.xml" publishTime="05/26/2015 11:18:11" />
+    <file relUrl="bin/CaliberMailProvider.pdb" publishTime="05/26/2015 11:18:09" />
+    <file relUrl="bin/CaliberMailProvider.dll" publishTime="05/26/2015 11:18:09" />
+    <file relUrl="bin/CaliberCommonCtrls.dll" publishTime="05/26/2015 11:18:09" />
+    <file relUrl="RITrf.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="bin/CaliberCommonCtrls.pdb" publishTime="05/26/2015 11:18:09" />
+    <file relUrl="App.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="bin/CaliberCommonCtrls.xml" publishTime="05/26/2015 11:18:09" />
+    <file relUrl="StatusChg.aspx" publishTime="05/26/2015 11:18:04" />
+    <file relUrl="RITrfList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="AuditDisplay.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="Trn.aspx" publishTime="05/26/2015 11:18:04" />
+    <file relUrl="Config.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="AuditList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="AppList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="CreationList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="Particulars.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="bin/CaliberMailHandler.dll" publishTime="05/26/2015 11:18:08" />
+    <file relUrl="ExistingList.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="bin/PlantReg.dll" publishTime="05/26/2015 11:18:11" />
+    <file relUrl="Web.config" publishTime="05/26/2015 11:18:42" />
+    <file relUrl="bin/CaliberMailHandler.pdb" publishTime="05/26/2015 11:18:08" />
+    <file relUrl="bin/PlantReg.pdb" publishTime="05/26/2015 11:18:11" />
+    <file relUrl="bin/CaliberGlobalCls.dll" publishTime="05/22/2015 11:34:20" />
+    <file relUrl="MsgDisplay.aspx" publishTime="05/26/2015 11:18:03" />
+    <file relUrl="StatusChgList.aspx" publishTime="05/26/2015 11:18:04" />
+    <file relUrl="bin/CaliberDataAccess.dll" publishTime="05/22/2015 11:34:20" />
+  </publishProfile>
+</publishData>

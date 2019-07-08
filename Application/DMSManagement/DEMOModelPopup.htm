@@ -1,0 +1,177 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <title>Untitled Page</title>
+    <link href="../TRIMS.css" type="text/css" rel="stylesheet">
+
+    <script language="javascript" src="jquery.min.js"></script>
+
+    <script type='text/javascript' src='jquery.simplemodal.js'></script>
+
+    <link type='text/css' href='basic.css' rel='stylesheet' media='screen' />
+
+    <script type='text/javascript' src='basic.js'></script>
+
+    <script language="javascript">
+    
+    $.extend($.expr[":"], {
+    "containsNC": function(elem, i, match, array) {
+    return (elem.textContent || elem.innerText || "").toLowerCase().indexOf((match[3] || "").toLowerCase()) >= 0;
+    }
+    });
+
+$(document).ready(function() {
+    var Str = "";
+    Str += "<table class=\"SubTable\" id=\"ContLstTbl\" cellspacing=\"1\" cellpadding=\"0\" align=\"Center\" border=\"0\" style=\"width: 100%;\">";
+    Str += "<tr><td class=\"SubHead\" style=\"width:60px\">S.No.</td><td class=\"SubHead\" style=\"width:120px\">Code</td><td class=\"SubHead\" style=\"width:150px\">Desc</td></tr>";
+
+    for(var i=1;i<=100;i++)
+    {
+        Str += "<tr><td class=\"MainTD\">"+i+"</td><td class=\"MainTD\">";
+        Str += "<input type=\"radio\" id=\"ModDataSelRbn_"+i+"\" onclick=\"SetVal("+i+")\" name=\"ModDataSelRbn\" />";
+        Str += "<span class=\"HideRow\" id=\"IdVal_"+i+"\">"+i+"</span><span id=\"CodeVal_"+i+"\">Code"+i+"</span></td>";
+        Str += "<td class=\"MainTD\"><span id=\"DescVal_"+i+"\">Desc"+i+"</span></td></tr>"
+    }
+
+    Str += "</table>";
+
+    $("#DataDiv").html(Str);
+
+    $('input[id^="ModDataSelBtn_"]').click(function() {
+        $("body").data("SelCnt",this.id.replace("ModDataSelBtn_",""));
+        $('#basic-modal-content').modal();
+    });
+
+    $('#OkBtn').click(function() {
+        $.modal.close();
+    });
+
+    $('#CancelBtn').click(function() {
+        var SelCnt = $("body").data("SelCnt");
+        $("#SourceTypeLbl"+SelCnt).html("");
+        $("#ModDataSelTxt"+SelCnt).val("");
+        $("#ModDataSelIdTxt"+SelCnt).val("");
+        $.modal.close();
+    });    
+    
+    $("body").delegate(("#FindBtn"), "click", function(){
+        $("#ContLstTbl tr").css("display", "none");
+        $("#ContLstTbl tr:containsNC('"+$.trim($("#FindTxt").val())+"')").css("display", "block");
+        $("#ContLstTbl tr:first").css("display", "block");
+    });
+});
+
+function SetVal(Cnt)
+{
+    var IdVal= $("#IdVal_"+Cnt).html();
+    var CodeVal= $("#CodeVal_"+Cnt).html();
+    var DescVal= $("#DescVal_"+Cnt).html();
+
+    var SelCnt = $("body").data("SelCnt");
+    $("#SourceTypeLbl"+SelCnt).html(CodeVal);
+    $("#ModDataSelTxt"+SelCnt).val(CodeVal);
+    $("#ModDataSelIdTxt"+SelCnt).val(IdVal);
+}
+
+    </script>
+
+</head>
+<body>
+    <table id="tt" class="MainTable" cellspacing="0" cellpadding="0" align="Center" border="0"
+        style="border-collapse: collapse;">
+        <tr class="MainHead">
+            <td>
+                Model Dialog Demo</td>
+        </tr>
+        <tr>
+            <td>
+                <!-----------Base table------------->
+                <table id="Table1" class="SubTable" cellspacing="1" cellpadding="0" align="Center"
+                    border="0" style="width: 100%;">
+                    <tr class="HideRow" style="height: 0px;">
+                        <td style="width: 40%">
+                        </td>
+                        <td style="width: 60%">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="SubHead" colspan="2">
+                            Registration</td>
+                    </tr>
+                    <tr>
+                        <td class="MainTD" style="font-weight: bold; width: 40%;">
+                            Select 1</td>
+                        <td class="MainTD" style="width: 60%">
+                            <input type="text" maxlength="30" id="ModDataSelTxt1" accesskey="C" class="HideRow"
+                                disabled="disabled" style="width: 200px;" />
+                            <input type="button" id="ModDataSelBtn_1" class='RsnPUP'>
+                            <span id="SourceTypeLbl1"></span>
+                            <input type="text" id="ModDataSelIdTxt1" class="HideRow" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="MainTD" style="font-weight: bold; width: 40%;">
+                            Select 2</td>
+                        <td class="MainTD" style="width: 60%">
+                            <input type="text" maxlength="30" id="ModDataSelTxt2" accesskey="C" class="HideRow"
+                                disabled="disabled" style="width: 200px;" />
+                            <input type="button" id="ModDataSelBtn_2" class='RsnPUP'>
+                            <span id="SourceTypeLbl2"></span>
+                            <input type="text" id="ModDataSelIdTxt2" class="HideRow" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="MainTD" style="font-weight: bold; width: 40%;">
+                            Select 3</td>
+                        <td class="MainTD" style="width: 60%">
+                            <input type="text" maxlength="30" id="ModDataSelTxt3" accesskey="C" class="HideRow"
+                                disabled="disabled" style="width: 200px;" />
+                            <input type="button" id="ModDataSelBtn_3" class='RsnPUP'>
+                            <span id="SourceTypeLbl3"></span>
+                            <input type="text" id="ModDataSelIdTxt3" class="HideRow" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr class="MainFoot">
+            <td>
+            </td>
+        </tr>
+    </table>
+    <div class="HideRow">
+        <div id="basic-modal-content">
+            <table id="Table2" class="MainTable" cellspacing="0" cellpadding="0" align="Center"
+                style="border-collapse: collapse;">
+                <tr class="MainHead">
+                    <td>
+                        Model Dialog Popup</td>
+                </tr>
+                <tr>
+                    <td class="MainTD">
+                        Find &nbsp;: &nbsp;
+                        <input type="text" maxlength="30" id="FindTxt" class="TxtCls" style="width: 200px;" />
+                        &nbsp;<input class="ButCls" id="FindBtn" onmouseover="this.className='ButOCls'" onmouseout="this.className='ButCls'"
+                            type="button" value=" find ">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div id="DataDiv" style="height: 300px; overflow: auto; background-color: #deeaff">
+                        </div>
+                    </td>
+                </tr>
+                <tr class="MainFoot">
+                    <td>
+                        <input class="ButCls" id="OkBtn" onmouseover="this.className='ButOCls'" onmouseout="this.className='ButCls'"
+                            type="button" value=" Ok ">
+                        <input class="ButCls" id="CancelBtn" onmouseover="this.className='ButOCls'" onmouseout="this.className='ButCls'"
+                            type="button" value=" Cancel ">
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+    <div id="MsgDiv"></div>
+</body>
+</html>

@@ -1,0 +1,340 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta content="noindex, nofollow" name="robots" />
+
+    <script type="text/javascript" src="../../../fckeditor.js"></script>
+
+    <script src="../../dialog/common/fck_dialog_common.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+var dialog	= window.parent ;
+var oEditor = dialog.InnerDialogLoaded() ;
+var FCK = oEditor.FCK ;
+var FCKLang = oEditor.FCKLang ;
+var FCKBrowserInfo = oEditor.FCKBrowserInfo ;
+var FCKStyles = oEditor.FCKStyles ;
+var FCKElementPath = oEditor.FCKElementPath ;
+var FCKDomRange = oEditor.FCKDomRange ;
+var FCKDomTools = oEditor.FCKDomTools ;
+var FCKDomRangeIterator = oEditor.FCKDomRangeIterator ;
+var FCKListsLib = oEditor.FCKListsLib ;
+var AlwaysCreate = dialog.Args().CustomValue ;
+
+String.prototype.IEquals = function()
+{
+	var thisUpper = this.toUpperCase() ;
+
+	var aArgs = arguments ;
+
+	// The arguments could also be a single array.
+	if ( aArgs.length == 1 && aArgs[0].pop )
+		aArgs = aArgs[0] ;
+
+	for ( var i = 0 ; i < aArgs.length ; i++ )
+	{
+		if ( thisUpper == aArgs[i].toUpperCase() )
+			return true ;
+	}
+	return false ;
+}
+
+ var NewBlock='';
+ var sText = FCK.Selection.SelectionData;
+ 
+ var Save ="";
+ var EditFlag =''
+
+window.onload = function()
+{
+	oEditor.FCKLanguageManager.TranslatePage(document) ;
+   if(sText !=undefined)
+   {
+        if(sText.htmlText!='' || sText.htmlText!=null) 
+        {
+            Save= sText.htmlText;
+            GetE( 'SelectedDataDiv' ).innerHTML = sText.htmlText;
+        }
+    }
+    if(sText=='' || sText==null || Save=='' ||Save==null)
+         {
+             
+             divAdvanced.style.display ="none";
+             MessageDiv.removeAttribute ("style");
+             dialog.SetAutoSize( true ) ;
+             //MessageDiv.innerHTML ="Please select some text"  
+             MessageDiv.style .textAlign ="center"
+             MessageDiv.innerHTML ="<br /><br /><br /><br /><br /><br /><h4 style='color: red'>Please select some text!</h4>";
+             
+         }
+    else
+        {    
+            MessageDiv.style.display ="none";
+            divAdvanced.removeAttribute ("style");
+            dialog.SetOkButton( true ) ;
+            dialog.SetAutoSize( true ) ;
+            ReasonsData.focus ();
+        }
+}
+    var NewData ;
+    var OldData;
+    var Pindex='';
+    var Value='';
+    var FVal='',SVal='';
+    var OVal='',Mdata='';
+    var Reasons ;
+function Ok()
+{
+
+var html = FCKeditorAPI.GetInstance( 'FCKeditor3' ).GetData();
+
+
+	oEditor.FCKUndo.SaveUndoStep() ;
+	//-----------------------------------------------------------------
+    //validating the input fields
+    var Flag=0;
+    if(html=='' || html==null)
+    Flag=1;
+    //if(GetE( 'txtId' ).value=='' || GetE( 'txtId' ).value ==null)
+    //Flag=1;
+    if(GetE( 'ReasonsData' ).value=='' || GetE( 'ReasonsData' ).value ==null)
+    Flag=1;
+
+    if(Flag==1){
+        alert("Enter Reasons")
+        return false;
+    }
+	//-----------------------------------------------------------------
+		NewBlock =FCK.InsertElement( 'span' ) ; //FCK.EditorDocument.createElement( 'div' ) ;
+		
+		NewData =html
+
+		while(NewData.indexOf("<p")!=-1)
+		{
+		Pindex=NewData.indexOf("<p")
+		FVal = NewData.substring( 0, Pindex) ;
+		SVal = NewData.substring( Pindex+2, NewData.length) ;
+		OVal = SVal.indexOf(">")
+		OData = SVal.substring( OVal+1, SVal.length) ;
+		Mdata = FVal+ OData
+		NewData=Mdata
+		}
+
+		NewBlock.innerHTML =NewData.replace("</p>","")
+		
+		NewBlock.style.color="red" 
+		NewBlock.id =Math.random() //GetE( 'txtId' ).value
+        NewBlock.style.backgroundColor="white" 
+       // NewBlock.unselectable ="off" // U Won't be able to select the span if this property is set
+        NewBlock.contentEditable =false
+        NewBlock.setAttribute( "reasonsatt", GetE( 'ReasonsData' ).value ) ;
+        NewBlock.setAttribute( "createddate", CurrentDate()) ;
+        NewBlock.setAttribute( "flag", "0") ;
+
+        NewBlock.style.display= "inline";
+		NewBlock.style.width= "auto";
+
+        OldData =FCK.EditorDocument.createElement( 'span' ) ;
+        OldData.id =Math.random()
+        OldData.innerHTML = "<strike>"+ Save +"</strike>"
+
+        OldData.style.backgroundColor="LightYellow";
+        OldData.style.color="red";
+        OldData.setAttribute( "flag", "3") ;
+        OldData.style.visible =false;
+        OldData.style.display= "inline";
+
+
+         var xmlhttp;
+            try
+            {
+            xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            catch(ex)
+            {
+               try {
+                     xmlhttp=new ActiveXObject("MSxml2.XMLHTTP");
+                   }
+               catch(ex)
+                 { 
+                    try
+                    {         
+                      xmlhttp=new XmlHttpRequest();
+                    }
+
+                     catch(ex)
+                    {
+                      alert("please update the webbrowser");
+                    }
+                 }
+
+            }    
+
+            xmlhttp.onreadystatechange=function()
+            { 
+
+                if(xmlhttp.readystate==4)
+                {  
+                var s
+                s=xmlhttp.responseText              
+                       if(s=='')
+                        {                   
+                        }  
+                        else
+                        {
+                            Reasons =FCK.EditorDocument.createElement( 'span' ) ;
+
+                            Reasons.id =Math.random()
+                            Reasons.style.backgroundColor="Khaki";
+                            Reasons.style.color="red";
+                            Reasons.unselectable ="on";
+                            Reasons.setAttribute( "flag", "2") ;
+                            Reasons.style.visible =false;
+                            Reasons.style.display= "none";
+                            Reasons.style.width= "0";
+                            Reasons.style.height= "0";
+
+                            var Data ='&nbsp;&nbsp;&nbsp;';
+                            Data ="Modified On&nbsp;&nbsp;: " +  CurrentDate();
+                            Data+="<br/>Modified By &nbsp;&nbsp;: " +  s;
+                            Data+="<br/>Reasons &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: " +  GetE( 'ReasonsData' ).value;
+                            Reasons.innerHTML =Data;
+                            NewBlock.appendChild(Reasons);
+                            var FClild = NewBlock.firstChild
+                            NewBlock.insertBefore(OldData,FClild)
+                        }
+                }
+
+            }//onready
+
+        var url="../../../GetUserName.aspx"
+        xmlhttp.open("GET",url,false);
+        xmlhttp.send(null);
+	return true ;
+}
+function CurrentDate()
+{
+var s ='&nbsp;'  // Declare variables.
+var d = new Date();              // Create Date object with today's date.
+s += d.getDate() + "/";                 // Get day
+s += (d.getMonth() + 1) + "/";          // Get month
+s += d.getYear();                       // Get year.
+
+return s;
+}
+
+    </script>
+
+</head>
+<body style="overflow: hidden">
+
+<div id ="MessageDiv"  >
+    
+
+</div>
+    <div id="divAdvanced" style="display: none">
+        <table cellspacing="0" cellpadding="0" width="100%" border="0">
+            <colgroup span="3">
+                <col />
+                <col />
+                <col />
+            </colgroup>
+            <tr>
+      <!--          <td style="width: 130px">
+                    <span fcklang="DlgGenId">Id</span>
+                </td>
+                <td width="80%" span="2">
+                    <input type="text" id="txtId" style="width: 100%" />
+                </td>-->
+                <tr>
+                    <td colspan="3" style="width: 728px">
+                        &nbsp;</td>
+                </tr>
+            <tr>
+                <td style="width: 130px; height: 24px;">
+                    <span fcklang="DlgReasons">Reasons</span>
+                </td>
+                <td width="80%" span="2" style="height: 24px">
+                    <input type="text" id='ReasonsData' style="width: 100%" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width: 728px">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width: 728px">
+                    <span fcklang="DlgSelectedData">Selected Data</span><br />
+                    <div id='SelectedDataDiv' style='overflow: auto; width: 100%;
+                        height: 50px; border: solid 1px  Black; background-color: White'>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width: 728px">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width: 728px">
+                    <span fcklang="DlgData">Data</span><br />
+
+                    <script type="text/javascript">
+<!--
+                        if ( document.location.protocol == 'file:' )
+	                        alert( 'Warning: This samples does not work when loaded from local filesystem due to security restrictions implemented in Flash.'
+     			                        + '\n\nPlease load the sample from a web server instead.') ;
+
+
+                        var oFCKeditor = new FCKeditor( 'FCKeditor3' ) ;
+                        oFCKeditor.BasePath	= "../../../" ;
+
+                        // Instruct the editor to load our configurations from a custom file, leaving the
+                        // original configuration file untouched.
+                        //oFCKeditor.Config['CustomConfigurationsPath'] = sBasePath + '_samples/html/assets/sample16.config.js' ;
+                        oFCKeditor.Height = 150 ;
+                        oFCKeditor.Width = '100%' ;
+                        oFCKeditor.ToolbarSet = 'Basic' ;
+                        //oFCKeditor.Value = '' ;
+                        oFCKeditor.Create() ;
+//-->
+                    </script>
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width: 728px">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="3" style="width: 728px; height: 0px;">
+                    <table>
+                        <tr id="CreatedDate" style="display: none; height: 0px;">
+                            <td width="40%">
+                                <span fcklang="CreatedOn">Created On :</span><br />
+                            </td>
+                            <td width="60%" id='CreatedDateTd'>
+                            </td>
+                        </tr>
+                        <tr id="ModifiedTr" style="display: none; height: 0px;">
+                            <td width="40%">
+                                <span fcklang="LastModified">Last Modified :</span><br />
+                            
+                            </td>
+                            
+                            <td width="60%" id='LastModifiedDate'>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,12 @@
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\CaliberDataAccess.dll.config
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\CaliberDataAccess.dll
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\CaliberDataAccess.pdb
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\CaliberDataAccess.xml
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\CaliberCommonCtrls.dll
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\CaliberGlobalCls.dll
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\bin\Debug\Oracle.DataAccess.dll
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\obj\Debug\CaliberDataAccess.Resources.resources
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\obj\Debug\CaliberDataAccess.vbproj.GenerateResource.Cache
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\obj\Debug\CaliberDataAccess.dll
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\obj\Debug\CaliberDataAccess.xml
+D:\SENANI_TFS_WORKS\Visual Studio 2010\QAMS300BLM\QAMS300BLM\QAMS300BLM\CaliberDataAccess\obj\Debug\CaliberDataAccess.pdb

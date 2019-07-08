@@ -1,0 +1,16 @@
+IF  EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[#TableName#]') AND type in (N'U'))
+DROP TABLE [dbo].[#TableName#]
+GO
+CREATE TABLE [dbo].[#TableName#]
+(
+	[DMS_ATT_ID] [int] IDENTITY(1,1) NOT NULL,
+	[DMS_DOC_ID] [int] NOT NULL CONSTRAINT [DF_D#TableName#_DMS_DOC_ID]  DEFAULT ((0)),
+	[LMS_DMS_DOC_REPO_TPE_ID] [int] NOT NULL CONSTRAINT [DF_#TableName#_LMS_DMS_DOC_REPO_TPE_ID]  DEFAULT ((0)),
+	#AdditionalColumns#
+
+	CONSTRAINT [PK_#TableName#] PRIMARY KEY CLUSTERED 
+	(
+		[DMS_ATT_ID] ASC
+	)WITH (IGNORE_DUP_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO

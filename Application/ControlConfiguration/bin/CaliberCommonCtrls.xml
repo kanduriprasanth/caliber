@@ -1,0 +1,493 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CaliberCommonCtrls
+</name>
+</assembly>
+<members>
+<member name="F:CaliberCommonCtrls.EsignObj.lblheadingOne">
+	<summary>
+lblheadingOne control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.UserId">
+	<summary>
+UserId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.Pws">
+	<summary>
+Pws control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.ltrlEsignObjId">
+	<summary>
+ltrlEsignObjId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.ESEnabled">
+	<summary>
+ESEnabled control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.ESWindowPath">
+	<summary>
+ESWindowPath control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.ESActivity">
+	<summary>
+ESActivity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.ESButtonName">
+	<summary>
+ESButtonName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.TrnType">
+	<summary>
+TrnType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.EsignObj.ScreenTitle">
+	<summary>
+ScreenTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.DocumentViewer.mydiv1">
+	<summary>
+mydiv1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.DocumentViewer.DOCList">
+	<summary>
+DOCList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CaliberCommonCtrls.DocumentViewer">
+	<summary>
+DocumentViewer class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.ListHeaderTitle">
+	<summary>
+ListHeaderTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.RightLabel1">
+	<summary>
+RightLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.LeftLabel1">
+	<summary>
+LeftLabel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.LeftListBox">
+	<summary>
+LeftListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.button1">
+	<summary>
+button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.button2">
+	<summary>
+button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.button3">
+	<summary>
+button3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.button4">
+	<summary>
+button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.RightListBox">
+	<summary>
+RightListBox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.OptValues">
+	<summary>
+OptValues control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ListSelection.OptTexts">
+	<summary>
+OptTexts control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:CaliberCommonCtrls.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CaliberCommonCtrls.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CaliberCommonCtrls.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.img1">
+	<summary>
+img1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.Back1">
+	<summary>
+Back1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.MessageDisplay.NextPage">
+	<summary>
+NextPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberCalender.CalDateDisplay">
+	<summary>
+CalDateDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberCalender.CalDateVal">
+	<summary>
+CalDateVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberCalender.ClientButtonDisplay">
+	<summary>
+ClientButtonDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberCalender.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.DateRangeSelector.Tablecell1">
+	<summary>
+Tablecell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.DateRangeSelector.Tablecell2">
+	<summary>
+Tablecell2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.DateRangeSelector.DateRCHDDl">
+	<summary>
+DateRCHDDl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CaliberCommonCtrls.DateRangeSelector">
+	<summary>
+DateRangeSelector class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.STDReasonPopUP.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.STDReasonPopUP.lblReason">
+	<summary>
+lblReason control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.STDReasonPopUP.ResTab">
+	<summary>
+ResTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:CaliberCommonCtrls.AjaxDoc">
+	<summary>
+AjaxDoc class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.vsm1">
+	<summary>
+vsm1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.asd">
+	<summary>
+asd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.txtUserId">
+	<summary>
+txtUserId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.Requiredfieldvalidator3">
+	<summary>
+Requiredfieldvalidator3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.Xval">
+	<summary>
+Xval control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.IsValidLogin">
+	<summary>
+IsValidLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.Panel1">
+	<summary>
+Panel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.ESignature.Literal1">
+	<summary>
+Literal1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberBMRCalender.CalDateDisplay">
+	<summary>
+CalDateDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberBMRCalender.CalDateVal">
+	<summary>
+CalDateVal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberBMRCalender.ClientButtonDisplay">
+	<summary>
+ClientButtonDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:CaliberCommonCtrls.CaliberBMRCalender.RequiredFieldValidator1">
+	<summary>
+RequiredFieldValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

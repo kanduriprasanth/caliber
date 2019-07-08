@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <UserId>2</UserId>
+    <UserName>FN_2. SN_2</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-04-19T12:53:21.3932831+05:30</LogInDateTime>
+    <LogOutDateTime>1/1/1901</LogOutDateTime>
+    <LogInIPADD>::1</LogInIPADD>
+    <LogOutIPADD />
+    <SeqNo>4_19_2017_12_53_21_PM</SeqNo>
+    <Plantcode>MA</Plantcode>
+    <LoginMachineName>Machine Not in Domain</LoginMachineName>
+    <LogOutMachineName />
+    <SessionId>oucvo1h4ilpsek0vj5wzbzuj</SessionId>
+    <LastAccTime>2017-04-19T14:23:21.3932831+05:30</LastAccTime>
+  </Table1>
+</NewDataSet>

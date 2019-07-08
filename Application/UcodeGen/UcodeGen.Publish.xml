@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\CALINTG_PUBLISH\QAMS300BL\UcodeGen\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="06/11/2015 10:48:39" />
+    <file relUrl="StatusUpdate_Ajax.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="TypPopUp.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="UIDConfig.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="UcodeTypReg.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="bin/CaliberDataAccess.dll" publishTime="06/04/2015 11:14:17" />
+    <file relUrl="bin/CaliberCommonCtrls.dll" publishTime="06/04/2015 11:14:17" />
+    <file relUrl="UcodeItemReg.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="bin/UcodeGen.dll" publishTime="06/11/2015 10:47:19" />
+    <file relUrl="MsgDisplay1.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="bin/UcodeGen.pdb" publishTime="06/11/2015 10:47:19" />
+    <file relUrl="PrfxPopUp.aspx" publishTime="06/11/2015 10:46:31" />
+    <file relUrl="bin/CaliberGlobalCls.dll" publishTime="06/04/2015 11:14:17" />
+    <file relUrl="bin/UcodeGen.xml" publishTime="06/11/2015 10:47:19" />
+    <file relUrl="UcodeGen.aspx" publishTime="06/11/2015 10:46:31" />
+  </publishProfile>
+</publishData>

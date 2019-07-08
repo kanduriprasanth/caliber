@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WordStyle>
+	<wordTable style="border-collapse:collapse;border:none;mso-border-alt:solid #5fa8cf .5pt;mso-border-themecolor:text1;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt;height:20.45pt;">
+		<wordRowStartCellStart style="border:solid #5fa8cf 1.0pt;mso-border-alt:solid #5fa8cf .5pt;mso-border-themecolor:text1;padding:0in 5.4pt 0in 5.4pt;"/>
+		<wordRowStartCellRest style="border:solid #5fa8cf 1.0pt;mso-border-themecolor:text1;border-left:none;mso-border-left-alt:solid #5fa8cf .5pt;mso-border-left-themecolor:text1;mso-border-alt:solid #5fa8cf .5pt;mso-border-themecolor:text1;padding:0in 5.4pt 0in 5.4pt;height:20.45pt;"/>
+		<wordRowRestCellStart style="border:solid #5fa8cf 1.0pt;mso-border-themecolor:text1;border-top:none;mso-border-top-alt:solid #5fa8cf .5pt;mso-border-top-themecolor:text1;mso-border-alt:solid #5fa8cf .5pt;mso-border-themecolor:text1;padding:0in 5.4pt 0in 5.4pt;height:20.45pt;"/>
+		<wordRowRestCellRest style="border-top:none;border-left:none;border-bottom:solid #5fa8cf 1.0pt;mso-border-bottom-themecolor:text1;border-right:solid #5fa8cf 1.0pt;mso-border-right-themecolor:text1;mso-border-top-alt:solid #5fa8cf .5pt;mso-border-top-themecolor:text1;mso-border-left-alt:solid #5fa8cf .5pt;mso-border-left-themecolor:text1;mso-border-alt:solid #5fa8cf .5pt;mso-border-themecolor:text1;padding:0in 5.4pt 0in 5.4pt;height:20.45pt;"/>
+	</wordTable>
+</WordStyle>

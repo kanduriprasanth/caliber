@@ -1,0 +1,277 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eNoteBookEditor
+</name>
+</assembly>
+<members>
+<member name="T:eNoteBookEditor.GenerateWrkIssuenceFields">
+	<summary>
+GenerateWrkIssuenceFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:eNoteBookEditor.CalEditor.Editor">
+	<summary>
+Editor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:eNoteBookEditor.CalEditor">
+	<summary>
+CalEditor class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GenTempHtmlFiles">
+	<summary>
+GenTempHtmlFiles class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:eNoteBookEditor.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:eNoteBookEditor.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:eNoteBookEditor.GenerateIssTypeFields">
+	<summary>
+GenerateIssTypeFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GeneratePlanFields">
+	<summary>
+GeneratePlanFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.Table1">
+	<summary>
+Table1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.ToolsListTab">
+	<summary>
+ToolsListTab control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.Table2">
+	<summary>
+Table2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.CommandsIdLstTxt">
+	<summary>
+CommandsIdLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.ToolbarConfig.CommandsLstTxt">
+	<summary>
+CommandsLstTxt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:eNoteBookEditor.GenIssueUniqueCodeFields">
+	<summary>
+GenIssueUniqueCodeFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GetWSheetFields">
+	<summary>
+GetWSheetFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.DelTempHtmlFiles">
+	<summary>
+DelTempHtmlFiles class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GetBindingFields">
+	<summary>
+GetBindingFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GetMailFields">
+	<summary>
+GetMailFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:eNoteBookEditor.MsgDisplay.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.MsgDisplay.MessageDisplay1">
+	<summary>
+MessageDisplay1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:eNoteBookEditor.GenerateEFormFields">
+	<summary>
+GenerateEFormFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GetUserName">
+	<summary>
+GetUserName class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GetWorkFlowFields">
+	<summary>
+GetWorkFlowFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="T:eNoteBookEditor.GetEntryFields">
+	<summary>
+GetEntryFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member><member name="F:eNoteBookEditor.EditorAddons.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.EditorAddons.tt">
+	<summary>
+tt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.EditorAddons.TableRow1">
+	<summary>
+TableRow1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.EditorAddons.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.EditorAddons.MainTitleLtrl">
+	<summary>
+MainTitleLtrl control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:eNoteBookEditor.EditorAddons.iFrame1">
+	<summary>
+iFrame1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="T:eNoteBookEditor.ActionPlanFields">
+	<summary>
+ActionPlanFields class.
+</summary>
+	<remarks>
+Auto-generated class.
+</remarks>
+</member>
+</members>
+</doc>

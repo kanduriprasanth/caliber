@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\CALINTG_PUBLISH\QAMS300BL\ControlConfiguration\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="RIList.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="DataSheetReg.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="SearchCtrl.ascx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="RevAppListPopUp.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="CreationPopUp.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="ActionPlanConfig.aspx" publishTime="05/22/2015 17:28:12" />
+    <file relUrl="ModifyList.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="MsgDisplay2.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="StatusUpdate_Ajax.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="DataSheetsPopup.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="MsgDisplay1.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="FlsItemsReg.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="Styles.css" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="RITrf.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="bin/CaliberCommonCtrls.pdb" publishTime="05/22/2015 17:28:20" />
+    <file relUrl="App.aspx" publishTime="05/22/2015 17:28:12" />
+    <file relUrl="DATASheetStatusChange.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="bin/CaliberCommonCtrls.xml" publishTime="05/22/2015 17:28:20" />
+    <file relUrl="StatusChg.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="RITrfList.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="Particulars.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="Trn.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="FldItemStatusChange.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="bin/ControlConfiguration.pdb" publishTime="05/22/2015 17:28:21" />
+    <file relUrl="FlowChartUrlConfgi.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="DataSheetsList.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="bin/CaliberMailHandler.dll" publishTime="05/22/2015 17:28:20" />
+    <file relUrl="Config.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="AuditList.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="AppList.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="CreationList.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="TaskTYpeReg.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="ExistingList.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="TaskTypePopup.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="Web.config" publishTime="05/22/2015 17:29:22" />
+    <file relUrl="bin/CaliberMailHandler.pdb" publishTime="05/22/2015 17:28:20" />
+    <file relUrl="ControlCfg.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="AuditDisplay.aspx" publishTime="05/22/2015 17:28:13" />
+    <file relUrl="bin/ControlConfiguration.dll" publishTime="05/22/2015 17:28:21" />
+    <file relUrl="bin/CaliberGlobalCls.dll" publishTime="05/22/2015 11:34:20" />
+    <file relUrl="MsgDisplay.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="bin/CaliberCommonCtrls.dll" publishTime="05/22/2015 17:28:20" />
+    <file relUrl="StatusChgList.aspx" publishTime="05/22/2015 17:28:14" />
+    <file relUrl="bin/ControlConfiguration.xml" publishTime="05/22/2015 17:28:21" />
+    <file relUrl="bin/CaliberDataAccess.dll" publishTime="05/22/2015 11:34:20" />
+  </publishProfile>
+</publishData>

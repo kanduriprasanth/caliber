@@ -1,0 +1,6 @@
+---
+ - hosts: test-server
+   tasks: 
+      - name: Deploy to QA
+        copy: src=/var/lib/jenkins/workspace/QAMS/caliber dest=/var/www/html
+...

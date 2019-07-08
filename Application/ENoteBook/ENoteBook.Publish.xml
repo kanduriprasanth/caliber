@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\CALINTG_PUBLISH\QAMS300BL\ENoteBook" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="RIList.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="SearchCtrl.ascx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="ModifyList.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="bin/ENoteBook.dll" publishTime="06/16/2015 15:35:38" />
+    <file relUrl="bin/CaliberCommonCtrls.dll" publishTime="06/04/2015 11:14:17" />
+    <file relUrl="ExistingENoteBooksPopup.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="RITrf.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="bin/CaliberGlobalCls.dll" publishTime="06/04/2015 11:14:17" />
+    <file relUrl="App.aspx" publishTime="06/04/2015 11:14:39" />
+    <file relUrl="bin/DMSManagement.dll" publishTime="06/10/2015 13:47:44" />
+    <file relUrl="StatusChg.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="TemplatePreview.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="RITrfList.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="AuditDisplay.aspx" publishTime="06/04/2015 11:14:39" />
+    <file relUrl="Trn.aspx" publishTime="06/04/2015 11:14:41" />
+    <file relUrl="bin/ENoteBook.pdb" publishTime="06/16/2015 15:35:38" />
+    <file relUrl="WebUserControl.ascx" publishTime="06/04/2015 11:14:41" />
+    <file relUrl="Config.aspx" publishTime="06/04/2015 11:14:39" />
+    <file relUrl="AuditList.aspx" publishTime="06/04/2015 11:14:39" />
+    <file relUrl="AppList.aspx" publishTime="06/04/2015 11:14:39" />
+    <file relUrl="CreationList.aspx" publishTime="06/04/2015 11:14:39" />
+    <file relUrl="Particulars.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="bin/DMSManagement.pdb" publishTime="06/10/2015 13:47:44" />
+    <file relUrl="ExistingList.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="Web.config" publishTime="06/16/2015 15:35:39" />
+    <file relUrl="HeaderFooterListPopUp.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="MsgDisplay.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="WorkFlowListPopUp.aspx" publishTime="06/04/2015 11:14:41" />
+    <file relUrl="StatusChgList.aspx" publishTime="06/04/2015 11:14:40" />
+    <file relUrl="bin/ENoteBook.xml" publishTime="06/16/2015 15:35:38" />
+    <file relUrl="bin/CaliberDataAccess.dll" publishTime="06/04/2015 11:14:17" />
+  </publishProfile>
+</publishData>

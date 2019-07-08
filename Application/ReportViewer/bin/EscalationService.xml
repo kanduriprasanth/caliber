@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EscalationService
+</name>
+</assembly>
+<members>
+<member name="F:EscalationService.Service1.IssueCode">
+	<summary>
+ For Adcock Requirement ''''
+ </summary>
+	<remarks></remarks>
+</member><member name="M:EscalationService.Service1.SendMail(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+	<summary>
+ 'Method For LUPIN
+ </summary>
+	<param name="IsuLogId"></param>
+	<param name="FissId"></param>
+	<param name="PlanId"></param>
+	<param name="EventType"></param>
+	<param name="IsuStatus"></param>
+	<param name="AppCount"></param>
+	<param name="FileAttachment"></param>
+	<param name="ToAdd__1"></param>
+	<param name="ParamVal"></param>
+	<param name="color"></param>
+	<param name="FileAttachmentType"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

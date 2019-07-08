@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UserID" type="xs:int" minOccurs="0" />
+              <xs:element name="TaskID" type="xs:int" minOccurs="0" />
+              <xs:element name="QTask" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="ObjectName" type="xs:string" minOccurs="0" />
+              <xs:element name="TaskTypeDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="ShortCut" type="xs:string" minOccurs="0" />
+              <xs:element name="TaskCount" type="xs:int" minOccurs="0" />
+              <xs:element name="Path" type="xs:string" minOccurs="0" />
+              <xs:element name="WorkId" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="ModuleID" type="xs:unsignedByte" minOccurs="0" />
+              <xs:element name="MenuID" type="xs:int" minOccurs="0" />
+              <xs:element name="SubMenuID" type="xs:int" minOccurs="0" />
+              <xs:element name="MENUCODE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

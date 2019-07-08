@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CheckUserCrediantials">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Psw" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PlantCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ExceptionMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CheckUserCrediantialsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="CheckUserCrediantialsResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="ExceptionMsg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Initiate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="LoginId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PlantId" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="TypeOfInitiation" type="tns:InitiationType" />
+            <s:element minOccurs="0" maxOccurs="1" name="ObjectRecords" type="tns:ArrayOfObjectRecordStruct" />
+            <s:element minOccurs="0" maxOccurs="1" name="ResponseMessageRecords" type="tns:ArrayOfResponseMessageStruct" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:simpleType name="InitiationType">
+        <s:restriction base="s:string">
+          <s:enumeration value="InitiateRegistration" />
+          <s:enumeration value="ReInitiateRegistration" />
+          <s:enumeration value="InitiateModification" />
+          <s:enumeration value="ReInitiateModification" />
+          <s:enumeration value="InitiateStatusChange" />
+        </s:restriction>
+      </s:simpleType>
+      <s:complexType name="ArrayOfObjectRecordStruct">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ObjectRecordStruct" nillable="true" type="tns:ObjectRecordStruct" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ObjectRecordStruct">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="IssLoginDesc" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IssLoginCode" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IssueTypeId" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="InvesType" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParameterNameLst" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParameterValueLst" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ParameterDataTypeLst" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfResponseMessageStruct">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ResponseMessageStruct" nillable="true" type="tns:ResponseMessageStruct" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ResponseMessageStruct">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="MessageType" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="StdMessageText" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="KeyFieldValue" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ErrorMessage" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InitiateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ResponseMessageRecords" type="tns:ArrayOfResponseMessageStruct" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadMapMethods">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Ds">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadMapMethodsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Ds">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SaveExeData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Path" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MapCode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SaveExeDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="SaveExeDataResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadMethod">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadMethodResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ReadMethodResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadData">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Pwd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="MapCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserData">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadDataResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UserData">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadFolderPaths">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Ds">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ReadFolderPathsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Ds">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CheckUserCrediantialsSoapIn">
+    <wsdl:part name="parameters" element="tns:CheckUserCrediantials" />
+  </wsdl:message>
+  <wsdl:message name="CheckUserCrediantialsSoapOut">
+    <wsdl:part name="parameters" element="tns:CheckUserCrediantialsResponse" />
+  </wsdl:message>
+  <wsdl:message name="InitiateSoapIn">
+    <wsdl:part name="parameters" element="tns:Initiate" />
+  </wsdl:message>
+  <wsdl:message name="InitiateSoapOut">
+    <wsdl:part name="parameters" element="tns:InitiateResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReadMapMethodsSoapIn">
+    <wsdl:part name="parameters" element="tns:ReadMapMethods" />
+  </wsdl:message>
+  <wsdl:message name="ReadMapMethodsSoapOut">
+    <wsdl:part name="parameters" element="tns:ReadMapMethodsResponse" />
+  </wsdl:message>
+  <wsdl:message name="SaveExeDataSoapIn">
+    <wsdl:part name="parameters" element="tns:SaveExeData" />
+  </wsdl:message>
+  <wsdl:message name="SaveExeDataSoapOut">
+    <wsdl:part name="parameters" element="tns:SaveExeDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReadMethodSoapIn">
+    <wsdl:part name="parameters" element="tns:ReadMethod" />
+  </wsdl:message>
+  <wsdl:message name="ReadMethodSoapOut">
+    <wsdl:part name="parameters" element="tns:ReadMethodResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReadDataSoapIn">
+    <wsdl:part name="parameters" element="tns:ReadData" />
+  </wsdl:message>
+  <wsdl:message name="ReadDataSoapOut">
+    <wsdl:part name="parameters" element="tns:ReadDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="ReadFolderPathsSoapIn">
+    <wsdl:part name="parameters" element="tns:ReadFolderPaths" />
+  </wsdl:message>
+  <wsdl:message name="ReadFolderPathsSoapOut">
+    <wsdl:part name="parameters" element="tns:ReadFolderPathsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="CheckUserCrediantials">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Validate User Login Crediantials</wsdl:documentation>
+      <wsdl:input message="tns:CheckUserCrediantialsSoapIn" />
+      <wsdl:output message="tns:CheckUserCrediantialsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Initiate">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Initiate [Product / Material] Registration / Modification / Statues Change </wsdl:documentation>
+      <wsdl:input message="tns:InitiateSoapIn" />
+      <wsdl:output message="tns:InitiateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadMapMethods">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Product / Material Data Regisrtation</wsdl:documentation>
+      <wsdl:input message="tns:ReadMapMethodsSoapIn" />
+      <wsdl:output message="tns:ReadMapMethodsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveExeData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Product / Material Data Regisrtation</wsdl:documentation>
+      <wsdl:input message="tns:SaveExeDataSoapIn" />
+      <wsdl:output message="tns:SaveExeDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadMethod">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Product / Material Data Regisrtation</wsdl:documentation>
+      <wsdl:input message="tns:ReadMethodSoapIn" />
+      <wsdl:output message="tns:ReadMethodSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadData">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Product / Material Data Regisrtation</wsdl:documentation>
+      <wsdl:input message="tns:ReadDataSoapIn" />
+      <wsdl:output message="tns:ReadDataSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadFolderPaths">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Product / Material Data Regisrtation</wsdl:documentation>
+      <wsdl:input message="tns:ReadFolderPathsSoapIn" />
+      <wsdl:output message="tns:ReadFolderPathsSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CheckUserCrediantials">
+      <soap:operation soapAction="http://tempuri.org/CheckUserCrediantials" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Initiate">
+      <soap:operation soapAction="http://tempuri.org/Initiate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadMapMethods">
+      <soap:operation soapAction="http://tempuri.org/ReadMapMethods" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveExeData">
+      <soap:operation soapAction="http://tempuri.org/SaveExeData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadMethod">
+      <soap:operation soapAction="http://tempuri.org/ReadMethod" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadData">
+      <soap:operation soapAction="http://tempuri.org/ReadData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadFolderPaths">
+      <soap:operation soapAction="http://tempuri.org/ReadFolderPaths" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CheckUserCrediantials">
+      <soap12:operation soapAction="http://tempuri.org/CheckUserCrediantials" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Initiate">
+      <soap12:operation soapAction="http://tempuri.org/Initiate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadMapMethods">
+      <soap12:operation soapAction="http://tempuri.org/ReadMapMethods" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveExeData">
+      <soap12:operation soapAction="http://tempuri.org/SaveExeData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadMethod">
+      <soap12:operation soapAction="http://tempuri.org/ReadMethod" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadData">
+      <soap12:operation soapAction="http://tempuri.org/ReadData" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadFolderPaths">
+      <soap12:operation soapAction="http://tempuri.org/ReadFolderPaths" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://cal41/IssueLoginWS/Service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://cal41/IssueLoginWS/Service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

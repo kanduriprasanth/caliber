@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <UserId>3</UserId>
+    <UserName>QAMS. ADMIN1</UserName>
+    <TransactionType>1</TransactionType>
+    <LogInDateTime>2017-04-01T12:05:39.3731490+05:30</LogInDateTime>
+    <LogOutDateTime>1/1/1901</LogOutDateTime>
+    <LogInIPADD>10.10.2.143</LogInIPADD>
+    <LogOutIPADD />
+    <SeqNo>4_1_2017_12_05_39_PM</SeqNo>
+    <Plantcode>17</Plantcode>
+    <LoginMachineName>CAL2143</LoginMachineName>
+    <LogOutMachineName />
+    <SessionId>fzg0hmsayvwfejnzpzge02w2</SessionId>
+    <LastAccTime>2017-04-01T13:05:39.3731490+05:30</LastAccTime>
+  </Table1>
+</NewDataSet>
